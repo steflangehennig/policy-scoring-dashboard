@@ -3,6 +3,7 @@ import { BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer } from "recha
 import * as pdfjsLib from "pdfjs-dist";
 import mammoth from "mammoth";
 
+
 // Fallback UI components
 const Card = ({ children }) => <div className="border rounded-xl p-4 shadow bg-white">{children}</div>;
 const CardContent = ({ children }) => <div>{children}</div>;
