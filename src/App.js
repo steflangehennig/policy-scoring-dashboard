@@ -1,5 +1,6 @@
 import ProfileCard from './ProfileCard';
 
+
 function App() {
   return (
     <div>
@@ -8,5 +9,6 @@ function App() {
     </div>
   );
 }
+
 
 export default App;
