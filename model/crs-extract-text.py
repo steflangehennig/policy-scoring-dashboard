@@ -40,4 +40,4 @@ for file_path in input_folder.glob("*"):
         out_file = output_folder / f"{file_path.stem}.txt"
         with open(out_file, "w", encoding="utf-8") as f:
             f.write(text)
-        print(f"✅ Saved: {out_file}")
+        print(f"Saved: {out_file}")
