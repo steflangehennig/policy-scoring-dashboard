@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+
+# React App Test Run - EBP Tool
+
+First cut of using React to understand evidence-based policy making. The tool takes policy documents (briefs, regulations, testimony, etc.) and evaluates whether the policy has been rigorously evaluated (e.g., evidence-based). This is a minimum viable product currently in iteration. All of the boilerplate React information follows below.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
