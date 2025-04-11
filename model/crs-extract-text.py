@@ -1,3 +1,7 @@
+#!/usr/bin/env python3
+# This sciprt scans a folder of CRS reports (pdf + html) and converts each to plain txt files for LLM scoring
+# !pip install -q pdfminer.six beautifulsoup4
+
 from pathlib import Path
 from bs4 import BeautifulSoup
 from pdfminer.high_level import extract_text
