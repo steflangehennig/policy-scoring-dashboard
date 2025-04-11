@@ -1,8 +1,10 @@
 import { useState, useEffect } from "react";
 import { BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer } from "recharts";
-import * as pdfjsLib from "pdfjs-dist";
+import * as pdfjsLib from "pdfjs-dist/legacy/build/pdf";
+import pdfjsWorker from "pdfjs-dist/legacy/build/pdf.worker.entry";
 import mammoth from "mammoth";
 
+pdfjsLib.GlobalWorkerOptions.workerSrc = pdfjsWorker;
 
 // Fallback UI components
 const Card = ({ children }) => <div className="border rounded-xl p-4 shadow bg-white">{children}</div>;
@@ -66,6 +68,13 @@ export default function EvidenceDashboard() {
     return result.value;
   };
 
+  const extractTextFromHTML = async (file) => {
+    const text = await file.text();
+    const parser = new DOMParser();
+    const doc = parser.parseFromString(text, "text/html");
+    return doc.body.innerText;
+  };
+
   const handleFileUpload = async (e) => {
     const file = e.target.files[0];
     if (!file) return;
@@ -78,6 +87,8 @@ export default function EvidenceDashboard() {
       file.type === "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
     ) {
       text = await extractTextFromDOCX(file);
+    } else if (file.name.endsWith(".html")) {
+      text = await extractTextFromHTML(file);
     } else {
       const reader = new FileReader();
       reader.onload = (event) => {
@@ -137,7 +148,7 @@ export default function EvidenceDashboard() {
       <Card>
         <CardContent>
           <h2 className="text-xl font-semibold mb-2">Upload Policy Document</h2>
-          <Input type="file" accept=".txt,.doc,.docx,.pdf" onChange={handleFileUpload} />
+          <Input type="file" accept=".txt,.doc,.docx,.pdf,.html" onChange={handleFileUpload} />
         </CardContent>
       </Card>
 
