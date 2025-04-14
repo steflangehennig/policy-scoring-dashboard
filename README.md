@@ -1,7 +1,7 @@
 
 # React App Test Run - EBP Tool
 
-First cut of using React to understand evidence-based policy making. The tool takes policy documents (briefs, regulations, testimony, etc.) and evaluates whether the policy has been rigorously evaluated (e.g., evidence-based). The `model` folder contains a functional, automated, scalable scoring tool for evaluating the evidence basis of real-world policy docs using LLMs. Testing on more documents and using other models beyond Llama-b3 and Minstral are planned. 
+First cut of using React to understand evidence-based policy making. The tool takes policy documents (briefs, regulations, testimony, etc.) and evaluates whether the policy has been rigorously evaluated (e.g., evidence-based). The `model` folder contains a functional, automated, scalable scoring tool for evaluating the evidence basis of real-world policy docs using LLMs. The `src` folder contains the source code for the React.app files. The `public` folder contains files instantiated with general React templates. Testing on more documents and using other models beyond Llama-b3 and Minstral are planned. 
 
 ### General File Structure:
 
