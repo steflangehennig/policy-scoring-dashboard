@@ -6,9 +6,19 @@ First cut of using React to understand evidence-based policy making. The tool ta
 ### General File Structure:
 
     .
-    ├── model                  
-    ├── public                    
-    ├── src                     
+    ├── model
+        ├── bulk-download.py
+        ├── crs-extract.py
+        ├── ebp-scoring.ipynb                  
+    ├── public
+        ├── favicon.ico
+        ├── index.html
+        ├── logo192.png
+        ├── logo512.png
+        ├── manifest.json
+        ├── robots.txt    
+    ├── src
+        ├── here                   
     ├── package-lock.json                  
     ├── package.json                 
     └── README.md
