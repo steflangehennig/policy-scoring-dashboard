@@ -7,9 +7,9 @@ First cut of using React to understand evidence-based policy making. The tool ta
 
     .
     ├── model
-        ├── bulk-download.py
-        ├── crs-extract.py
-        ├── ebp-scoring.ipynb                  
+        ├── bulk-download.py    # Download CRS reports in bulk
+        ├── crs-extract.py      # Extract text and convert to .txt
+        ├── ebp-scoring.ipynb   # Scoring model using LLM
     ├── public
         ├── favicon.ico
         ├── index.html
@@ -19,9 +19,9 @@ First cut of using React to understand evidence-based policy making. The tool ta
         ├── robots.txt    
     ├── src
         ├── App.css
-        ├── App.js
+        ├── App.js              # Primary app files
         ├── App.test.js
-        ├── ProfileCard.css
+        ├── ProfileCard.css     # Add CSS if necessary
         ├── index.css
         ├── index.js
         ├── reportWebVitals.js
