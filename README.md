@@ -4,13 +4,14 @@
 First cut of using React to understand evidence-based policy making. The tool takes policy documents (briefs, regulations, testimony, etc.) and evaluates whether the policy has been rigorously evaluated (e.g., evidence-based). The `model` folder contains a functional, automated, scalable scoring tool for evaluating the evidence basis of real-world policy docs using LLMs. Testing on more documents and using other models beyond Llama-b3 and Minstral are planned. 
 
 ### General File Structure:
-.
-├── model                  
-├── public                    
-├── src                     
-├── package-lock.json                  
-├── package.json                 
-└── README.md
+
+    .
+    ├── model                  
+    ├── public                    
+    ├── src                     
+    ├── package-lock.json                  
+    ├── package.json                 
+    └── README.md
 
 This is a minimum viable product currently in iteration. All of the boilerplate React information follows below.
 
