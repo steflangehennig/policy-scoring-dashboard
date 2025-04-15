@@ -15,7 +15,7 @@ First cut of using React to understand evidence-based policy making. The tool ta
     ├── public
         ├── favicon.ico
         ├── index.html
-        ├── logo192.png
+        ├── logo192.png 
         ├── logo512.png
         ├── manifest.json
         ├── robots.txt    
