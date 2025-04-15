@@ -32,7 +32,26 @@ First cut of using React to understand evidence-based policy making. The tool ta
     ├── package.json                 
     └── README.md
 
-This is a minimum viable product currently in iteration. All of the boilerplate React information follows below.
+
+# Why Evidence-Based Policymaking Scoring
+This project helps answer a key question in policy evaluation: How evidence-based are the documents that inform or justify public policy? While many policies cite research or reference evaluations, there are few scalable ways to assess whether those references actually reflect evidence-based practices. This project offers a new, automated approach to do this.
+
+I created a conceptual framework that defines what "evidence-based” means in concrete terms. It includes 5 core dimensions:
+
+1. Use of empirical research
+2. Structured evidence-gathering
+3. Transparency of sources and methods
+4. Expert or stakeholder consultation
+5. Plans for evaluation or feedback
+
+Each policy document is scored from 0 to 3 in each dimension, where 0 means that the feature is absent and 3 means it is strongly present.
+
+### LLMs to Evaluate Policy Documents
+Rather than reading and scoring documents manually, I use a large language model (LLM), which is a type of AI that understands and interprets text, to do the first round of evaluation. The LLM reads each document and applies the scoring rubric as if it were a policy analyst, returning both a score and a short explanation for each category.
+
+This saves time, allows for rapid scaling across hundreds of documents, and offers consistent results based on the rubric I designed. Although it is not a replacement for expert review, it acts as an early warning system or classification tool to identify policies that may lack evidence.
+
+> This is a minimum viable product currently in iteration. All of the boilerplate React information follows below.
 
 ## Getting Started with Create React App
 
