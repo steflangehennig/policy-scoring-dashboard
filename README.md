@@ -7,6 +7,8 @@ First cut of using React to understand evidence-based policy making. The tool ta
 
     .
     ├── model
+        ├── validaton           # Validating model results
+            ├── evidence_scores.csv
         ├── bulk-download.py    # Download CRS reports in bulk
         ├── crs-extract.py      # Extract text and convert to .txt
         ├── ebp-scoring.ipynb   # Scoring model using LLM
