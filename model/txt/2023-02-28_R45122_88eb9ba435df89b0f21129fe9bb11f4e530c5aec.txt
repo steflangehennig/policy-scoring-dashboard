@@ -1,0 +1,931 @@
+Afghanistan: Background and U.S. Policy 
+
+Updated February 28, 2023 
+
+Congressional Research Service 
+
+https://crsreports.congress.gov 
+
+R45122 
+
+ 
+ 
+  
+ 
+Afghanistan: Background and U.S. Policy 
+
+In 2021, U.S. and international forces withdrew from Afghanistan after nearly two decades of 
+operations, and the Taliban, a Sunni Islamist extremist group that formerly ruled the country 
+from 1996 to 2001, retook power. The United States does not recognize the Taliban or any other 
+entity as the government of Afghanistan and reports there are no U.S. diplomatic or military 
+personnel in the country. The Taliban’s position appears secure, though its rule appears to have 
+had negative effects for most Afghans, as well as a number of U.S. policy interests.  
+
+SUMMARY 
+
+R45122 
+
+February 28, 2023 
+
+Clayton Thomas 
+Specialist in Middle 
+Eastern Affairs 
+
+The Taliban government is dominated by former officials from the Taliban’s prior rule or 
+longtime loyalists. Signs of dissension in the group’s ranks along various lines have emerged, though the Taliban have a 
+history of effectively managing internal disputes. Some Afghans have sought to advocate for their rights and express 
+opposition to the Taliban in nonviolent demonstrations, which the Taliban have sometimes violently dispersed, but the 
+Taliban do not appear to face effective political opposition. Other Afghans have taken up arms against the Taliban, claiming 
+guerilla-style attacks against Taliban forces and calling for international assistance. The regional Islamic State affiliate has 
+conducted attacks against Taliban forces, Afghan civilians, and international targets alike.  
+
+Some Members of Congress have focused on a number of impacts of the Taliban’s renewed rule on U.S. interests: 
+  Counterterrorism. The Taliban takeover has had different impacts on the Islamic State and Al Qaeda, 
+
+historic Taliban adversaries and partners, respectively. With no U.S. military forces based in Afghanistan 
+or neighboring states, the United States is pursuing an “over-the-horizon” counterterrorism approach. 
+  Women and Girls. Taliban actions have been detrimental for the status of women and girls in Afghanistan, 
+a longtime U.S. policy concern, with girls prohibited from attending school above the primary level and 
+women’s roles drastically curtailed, including a December 2022 decision to ban women from working for 
+non-governmental organizations (NGOs).  
+
+  Relocating U.S. Partners. Some Members of Congress have closely followed ongoing U.S. efforts to 
+
+relocate remaining U.S. citizens, as well as the tens of thousands of Afghans who worked for U.S. efforts 
+and seek to leave the country. 
+
+Some Members have also expressed concern about dire humanitarian conditions in Afghanistan. Since the Taliban takeover, 
+Afghanistan has faced intersecting and overwhelming humanitarian and economic crises, a result of challenges both 
+preexisting (such as natural disasters and Afghanistan’s weak economic base) and new (such as the cut-off of international 
+development assistance, U.S. sanctions on the Taliban, and the U.S. hold on Afghan central bank assets). In response, the 
+Biden Administration has provided over $1 billion in humanitarian assistance, issued general licenses authorizing various 
+humanitarian and commercial transactions, and established a Switzerland-based “Afghan Fund” to disburse some of 
+Afghanistan’s central bank assets to support the Afghan economy.  
+
+Congressional oversight of U.S. Afghanistan policy has featured numerous hearings, past and ongoing investigations, and the 
+creation of the Afghanistan War Commission. Congress has also imposed a variety of reporting requirements to monitor 
+dynamics in Afghanistan and their implications for U.S. policy. Going forward, Congress may consider further reporting 
+requirements, resources, or investigative efforts related to various U.S. interests as it evaluates the Biden Administration’s 
+budget request and defense authorization measures and examines lessons learned in Afghanistan. Future reports from the 
+congressionally created Afghanistan War Commission and other bodies may offer lessons for legislators. 
+
+Congressional action could be influenced or constrained by a lack of reliable information about events in Afghanistan and the 
+historical legacy of U.S. conflict with the Taliban. Perhaps more challengingly, the Biden Administration and many in 
+Congress seek to ameliorate humanitarian and economic conditions in Afghanistan, but without taking any action that boosts 
+the Taliban’s position or that may be perceived as doing so. Pursuing these policies in tandem may prove complicated given 
+the Taliban’s evident aversion to make compromises in response to international pressure and its apparent willingness to 
+accept considerable humanitarian and economic suffering as the price of that uncompromising stance. 
+
+Congressional Research Service 
+
+ 
+ 
+ 
+  
+ 
+Afghanistan: Background and U.S. Policy 
+
+Contents 
+
+Introduction ..................................................................................................................................... 1 
+Background: Taliban Takeover ........................................................................................................ 1 
+Taliban Government ........................................................................................................................ 2 
+Current and Potential Opposition .............................................................................................. 3 
+Regional Dynamics: Pakistan and Other Neighbors ....................................................................... 4 
+U.S. Policy Impacts of the Taliban’s Return to Power .................................................................... 6 
+Counterterrorism ....................................................................................................................... 6 
+Afghan Women and Girls .......................................................................................................... 7 
+Ongoing Relocations of U.S. Citizens and Certain Afghans ..................................................... 8 
+Economic Contraction and Humanitarian Crisis ........................................................................... 10 
+U.S. Policy Responses .............................................................................................................. 11 
+Congressional Action and Outlook ................................................................................................ 12 
+
+Contacts 
+
+Author Information ........................................................................................................................ 14 
+
+Congressional Research Service 
+
+ 
+ 
+ 
+ 
+Afghanistan: Background and U.S. Policy 
+
+Introduction 
+This report provides background information and analysis on developments in Afghanistan and 
+implications for U.S. policy, including 
+
+ 
+
+ 
+ 
+
+the Taliban’s government and the impact of their rule on terrorist groups, human 
+rights, and the ability of U.S. Afghan partners to leave the country;  
+regional dynamics; and  
+the intersecting humanitarian and economic crises facing the country. 
+
+The report also provides information on legislation and other congressional action related to 
+Afghanistan. The challenge at the heart of many U.S. policy debates over which Congress has 
+influence (including humanitarian assistance, U.S. sanctions, and the status of U.S.-based central 
+bank assets) is how to prioritize and, if possible, reconcile two U.S. interests: supporting the 
+Afghan people and refraining from bolstering the Taliban’s rule.  
+
+Background: Taliban Takeover 
+The chapter of Afghan history that ended in 2021 arguably began in 2001, when the United 
+States, in response to the terrorist attacks of September 11, 2001, led a military campaign against 
+Al Qaeda and the Afghan Taliban government that harbored it. In the subsequent 20 years, the 
+United States suffered thousands of military casualties in Afghanistan, mostly at the hands of the 
+rising Taliban insurgency, and Congress appropriated over $146 billion for reconstruction and 
+security forces there. During this same period, an elected Afghan government replaced the 
+Taliban and, with significant U.S. and international support, made modest but uneven 
+improvements in most measures of human development, though Afghanistan remained one of the 
+world’s poorest and most corrupt countries.  
+
+At the outset of 2021, the Afghan government was a partner in U.S. counterterrorism efforts, the 
+result of nearly 20 years of substantial U.S. and international support, including the deployment 
+of hundreds of thousands of troops and the provision of tens of billions of dollars in assistance. 
+President Donald Trump had withdrawn all but 2,500 U.S. troops, the lowest U.S. force level 
+since 2001, in advance of the full military withdrawal to which the United States agreed in the 
+February 2020 U.S.-Taliban agreement.1 U.S. officials committed to continue to provide financial 
+support to Afghan forces and expressed confidence about their capabilities vis-a-vis the Taliban, 
+while conceding that those forces remained reliant on U.S. support.2 
+
+At the same time, the Taliban were arguably at their strongest since 2001, when they were driven 
+from power by U.S., international, and U.S.-backed Afghan forces, having steadily gained 
+territory and improved their tactical capabilities over the course of their resilient two-decade 
+insurgency. The Afghan government against which the Taliban fought was weakened by deep 
+internal divisions, factional infighting, and endemic corruption. 
+
+1 After more than a year of negotiations, U.S. and Taliban representatives signed a bilateral agreement on February 29, 
+2020, agreeing to two “interconnected” “guarantees”: the withdrawal of all U.S. and international forces by May 2021, 
+and unspecified Taliban action to prevent other groups (including Al Qaeda) from using Afghan soil to threaten the 
+United States and its allies. The text of the agreement is available at https://www.state.gov/wp-content/uploads/2020/
+02/Agreement-For-Bringing-Peace-to-Afghanistan-02.29.20.pdf. Nonpublic annexes accompanied the agreement. 
+2 See House Oversight and Reform Subcommittee on National Security Holds Hearing on Pathway for Peace in 
+Afghanistan, CQ Congressional Transcripts, February 19, 2021. 
+
+Congressional Research Service  
+
+1 
+
+ 
+ 
+                                                 
+Afghanistan: Background and U.S. Policy 
+
+Several weeks after President Joseph Biden confirmed that international forces would depart 
+Afghanistan by the fall of 2021, Taliban forces began a sweeping advance that captured wide 
+swaths of the country. The Taliban’s advance was secured through both combat and negotiation. 
+While the Taliban faced stiff, if ultimately unsuccessful, resistance from government forces in 
+some areas, others were taken with minimal fighting.3 In many of these areas, the Taliban 
+reportedly secured the surrender or departure of government forces (and the handover of their 
+weapons) with payments or through the mediation of local elders seeking to avoid bloodshed.4 
+The Taliban captured their first provincial capital on August 6, after which the collapse of the 
+Afghan government and its security forces accelerated. Afghan President Ashraf Ghani, whose 
+seven-year tenure was characterized by electoral crises, pervasive corruption, and the gradual 
+deterioration of Afghan military forces, fled the country on August 15 and reportedly remains, as 
+of February 2023, in the United Arab Emirates.5 Taliban fighters began entering Kabul that same 
+day, taking effective control of the country. 
+
+Taliban Government 
+On September 7, 2021, the Taliban announced a “caretaker government” to rule Afghanistan. The 
+Taliban refer to their government, as they have for decades referred to themselves, as the Islamic 
+Emirate of Afghanistan.6 The Taliban, who did not enact a formal constitution during their 1996-
+2001 rule, have said they intend to govern according to Islamic law (sharia) but, according to one 
+group of experts, “remain remarkably ambiguous when it comes to the type of Islamic state they 
+want to form in Afghanistan.”7 
+
+Haibatullah Akhundzada, Taliban leader since the 2016 killing of his predecessor in a U.S. drone 
+strike, holds supreme power as the group’s emir. He has made few reported public appearances 
+and only one photograph of him is known to be publicly available.8 Nearly all members of the 
+government are former officials from the Taliban’s prior rule or longtime loyalists. All are male, 
+the vast majority are ethnic Pashtuns (Afghanistan’s largest ethnic group, which represents a 
+plurality of the population), and most are from southern Afghanistan. Over half were, and remain, 
+designated for terrorism-related U.S. and/or U.N. sanctions, including the Acting Interior 
+Minister, Sirajuddin Haqqani. The U.S. Department of State has for years offered a reward of up 
+to $10 million for information leading to the arrest of Haqqani, who is the head of the Haqqani 
+Network, a U.S.-designated Foreign Terrorist Organization (FTO) that conducted numerous 
+attacks against U.S. and other international targets in Afghanistan.  
+
+In the initial days of the transition, some observers had speculated that the Taliban might reach 
+out to former Afghan government officials or to others from outside the movement as part of the 
+
+3 “Afghanistan: Taliban continue attacks on three major cities,” BBC, August 1, 2021. 
+4 Susannah George, “Afghanistan’s military collapse: Illicit deals and mass desertions,” Washington Post, August 15, 
+2021; David Zucchino, “Collapse and Conquest: The Taliban Strategy That Seized Afghanistan,” New York Times, 
+August 18, 2021. 
+5 Charles Davis, “Afghanistan’s last president, Ashraf Ghani, rejects comparison to Ukraine’s Zelenskyy, says he’s 
+‘lived an honorable life,’” Yahoo News, August 23, 2022. 
+6 It remains unclear as of Februrary 2023 how or in what sense these “caretaker” positions differ from permanent 
+positions. One analyst has described the Taliban’s government during the 1990s as “nominally interim.” “Who Will 
+Run the Taliban Government?” International Crisis Group, September 9, 2021. 
+7 M. Bashir Mobasher et al., The Constitution and Laws of the Taliban, 1994-2001: Hints from the Past and Options 
+for the Future, Institute for Democracy and Electoral Assistance, December 14, 2022. 
+8 “Taliban supreme leader addresses major gathering in Kabul,” Al Jazeera, July 1, 2022. 
+
+Congressional Research Service  
+
+2 
+
+ 
+ 
+                                                 
+Afghanistan: Background and U.S. Policy 
+
+Taliban’s promise to establish an “inclusive government.” The Taliban have not, however, 
+reached beyond their own ranks to fill government positions and are reportedly staffing ministries 
+with military and/or religious figures with little relevant experience, exacerbating the group’s 
+administrative challenges and some internal tensions.9 
+
+Some reports since the Taliban takeover have indicated dissension in the group’s ranks along 
+various lines. While the Taliban have a history of effectively managing internal disputes, 
+governing Afghanistan presents new and unique challenges to the group’s consensus-based 
+decision-making.10 Points of tension reportedly exist between members of the group’s political 
+wing (such as Baradar) and its military leaders (such as the Haqqanis) over who deserves the 
+most credit for the group’s victory;11 between a leadership that seeks stability and rank and file 
+fighters who are struggling to adjust to post-conflict life;12 and between those with different 
+ideological perspectives and ethnic identities.13 In a February 2023 speech, Haqqani criticized 
+“power monopolization” within the Taliban, prompting other Taliban figures to state that 
+criticisms should be voiced privately.14 
+
+Current and Potential Opposition 
+
+While the Taliban’s August 2021 takeover was swift, its triumph, according to many analysts, did 
+not reflect massive popular support for the movement so much as a lack of support for the former 
+government.15 Many elements of Afghan society, particularly in urban areas, appear to view the 
+Taliban with skepticism, fear, or hostility, and small numbers of Afghans have demonstrated 
+nonviolently to advocate for their rights and express opposition to the Taliban.16 The Taliban have 
+often violently dispersed these protests, and have stifled open non-violent dissent.17 According to 
+the UN Secretary-General’s Special Representative for Afghanistan, “There is no significant 
+visible political opposition to the Taliban inside Afghanistan,” and exiled officials associated with 
+the former government “are fragmented and their statements have decreasing resonance for the 
+population inside Afghanistan.”18 
+
+The Taliban face armed opposition from two very different quarters. The first is the National 
+Resistance Front (NRF), made up of figures aligned with the former Afghan state. NRF leaders 
+
+9 Zia ur-Rehman and Emily Schmall, “The Taliban have staffing issues. They are looking for help in Pakistan,” New 
+York Times, January 13, 2022; Thirteenth report of the Analytical Support and Sanctions Monitoring Team submitted 
+pursuant to resolution 2611 (2021) concerning the Taliban and other associated individuals and entities constituting a 
+threat to the peace stability and security of Afghanistan, S/2022/419, May 26, 2022. 
+10 Andrew Watkins, “The Taliban one year on,” CTC Sentinel, August 2022. 
+11 “Cracks emerge within Taliban as Baradar-led group raises concern over Sirajuddin’s pro-Pashtun stance,” ANI, 
+February 15, 2022. 
+12 Sabawoon Samim, “New lives in the city: How Taleban have experienced life in Kabul,” Afghanistan Analysts 
+Network, February 2, 2023.  
+13 Andrew Watkins, “One year later: Taliban reprise repressive rule, but struggle to build a state,” United States 
+Institute of Peace, August 17, 2022. 
+14 Ayaz Gul, “Top Taliban official’s public criticism reignite internal rift speculation,” Voice of America, February 13, 
+2023.  
+15 “How the Taliban engineered ‘political collapse’ of Afghanistan,” Reuters, August 17, 2021; Shadi Hamid, 
+“Americans never understood Afghanistan like the Taliban did,” Brookings Institution, August 23, 2021. 
+16 Barnett Rubin, “Afghanistan under the Taliban: findings on the current situation,” Stimson Center, October 20, 2022. 
+17 “Taliban disperses Afghan women’s march for ‘work and freedom,’” Al Jazeera, August 13, 2022. 
+18 UNAMA, “Briefing to the United Nations Security Council by the Secretary-General’s Special Representative for 
+Afghanistan Roza Otunbayeva,” December 20, 2022.  
+
+Congressional Research Service  
+
+3 
+
+ 
+ 
+                                                 
+Afghanistan: Background and U.S. Policy 
+
+have appealed for U.S. and international support and have retained Washington, DC-based 
+representation.19 They have not won explicit public backing from any foreign countries, perhaps 
+due to the Taliban’s relatively stronger military position and closer Taliban ties with regional 
+powers, including some that formerly supported Taliban opponents in the 1990s, such as Russia 
+and Iran. The NRF has claimed numerous attacks against Taliban fighters, mostly in and around 
+the central province of Panjshir, but it is difficult to assess the veracity of such claims, which the 
+Taliban dismiss as “propaganda.”20 Still, the NRF does not appear to have either the military 
+capabilities or the broad-based public support that would likely be necessary to seriously threaten 
+the Taliban’s position.21  
+
+An arguably more potent armed threat to the Taliban is the local Islamic State affiliate (Islamic 
+State-Khorasan Province, ISKP, also known as ISIS-K), a longtime Taliban adversary. ISKP has 
+opposed the Taliban since its 2015 establishment, viewing the Taliban’s Afghanistan-focused 
+nationalist political project as counter to the Islamic State’s universalist vision of a global 
+caliphate. Since the Taliban takeover, ISKP’s ranks have swelled to as many as 6,000 fighters 
+despite a concerted Taliban offensive.22 In addition to attacks against Afghan civilians (mostly 
+targeting Afghanistan’s Shia minority, the Hazaras) and Taliban fighters, ISKP has claimed a 
+number of externally-oriented operations, including cross border rocket attacks against 
+Uzbekistan and Tajikistan, attacks against the Russian and Pakistani embassies in Kabul, and an 
+assault on a Kabul hotel frequented by Chinese nationals.23 UN sanctions monitors assess the 
+group’s attacks are intended “to portray the Taliban as incapable of providing security” and “to 
+undermine the relationship between the Taliban and neighboring countries.”24  
+
+Regional Dynamics: Pakistan and Other Neighbors 
+Regional dynamics directly affect developments in Afghanistan, which is landlocked and has 
+throughout its history been the object of intervention by its neighbors and other foreign powers. 
+Events in Afghanistan also have consequences for those neighbors. 
+
+Pakistan. The neighboring state widely considered most important in this regard is Pakistan, 
+which has played an active, and by many accounts destabilizing, role in Afghan affairs for 
+decades, including by actively supporting the Taliban during its 1990s rule and much of its 
+subsequent insurgency. Many analysts regarded the Taliban takeover at least initially as a triumph 
+for Pakistan’s regional policy, pointing to statements of evident support for the takeover from 
+
+19 Ali Maisam Nazary, “What the Taliban really fear,” Foreign Affairs, August 19, 2022. 
+20 Zia Ur Rehman, “Afghanistan’s resistance alliance aims to pry Taliban’s grip loose,” Nikkei Asia, June 13, 2022. 
+21 Rubin, op. cit.; Vanda Felbab-Brown, “Afghanistan in 2023; Taliban internal power struggles and militancy,” 
+Brookings, February 3, 2023. 
+22 Thirty-first report of the Analytical Support and Sanctions Monitoring Team submitted pursuant to resolution 2610 
+(2021) concerning ISIL (Da’esh), Al-Qaida, and associated individuals and entities, S/2023/95, December 30, 2022.  
+23 Hazaras comprise 10%-15% of Afghanistan’s population. Since their August 2021 takeover, the Taliban have 
+demonstrated a more accepting official stance toward the Hazaras than was the case during their former rule, 
+particularly in urban areas, despite some reports of killings and forced displacement in the Hazaras’ historic homelands 
+in central Afghanistan in fall 2021. While the Taliban government has not persecuted Hazaras, many Hazaras fault the 
+Taliban for not establishing an inclusive government and not stopping the ISKP attacks that have repeatedly targeted 
+Hazaras. Nilly Kohzad, “‘It doesn’t matter if we get killed,’ Afghanistan’s Hazaras speak out,” Diplomat, May 27, 
+2022.Sudha Ramachandran, “ISKP attacks in Uzbekistan and Tajikistan,” Central Asia-Caucasus Analyst, August 31, 
+2022. 
+24 Thirty-first report of the Analytical Support and Sanctions Monitoring Team submitted pursuant to resolution 2610 
+(2021) concerning ISIL (Da’esh), Al-Qaida, and associated individuals and entities, S/2023/95, December 30, 2022. 
+
+Congressional Research Service  
+
+4 
+
+ 
+ 
+                                                 
+Afghanistan: Background and U.S. Policy 
+
+Pakistani leaders.25 Senior Pakistani officials have held numerous meetings with the new Taliban 
+government, both in Kabul and Islamabad, since August 2021. 
+
+However, there are some indications that the Taliban’s return to power may pose challenges for 
+Pakistan. The Taliban’s victory may provide a morale and perhaps material boost to Pakistan-
+based Islamist terrorist groups, including the so-called Pakistani Taliban (Tehreek-i Taliban-i 
+Pakistan, or TTP, a U.S.-designated Foreign Terrorist Organization). TTP attacks against Pakistani 
+security forces increased after August 2021, reportedly prompting the Pakistani government to 
+seek the Afghan Taliban’s mediation of several ceasefires.26 The TTP has resumed attacks against 
+Pakistani targets, including a January 2023 attack (claimed by a TTP faction) that targeted police 
+officers and killed over 100. Afghanistan-Pakistan relations are further complicated by the 
+presence of over 1 million Afghan refugees in Pakistan, as well as a long-running and ethnically 
+tinged dispute over their shared 1,600-mile border, at which Taliban and Pakistani government 
+forces intermittently clashed in 2022.27 
+
+Iran. Iran, with which Afghanistan shares its western border, opposed the Taliban’s 1990s rule 
+but has maintained relations with the group while emphasizing the need for representation for 
+Afghanistan’s ethnic and religious groups with which Iran has close ties (namely Tajiks, who 
+speak a variant of Persian, and Hazaras, who are mostly Shia Muslims). Disputes over water 
+rights and refugees persist, along with sporadic border clashes.28 
+
+Central Asia. Afghanistan’s Central Asian neighbors (Tajikistan, Turkmenistan, and Uzbekistan) 
+have responded in varying ways to the Taliban’s takeover. The Turkmenistan and Uzbekistan 
+governments appear to be prioritizing stability and economic ties, including the planned 
+Turkmenistan-Afghanistan-Pakistan-India (TAPI) natural gas pipeline, and have had official 
+engagements with the Taliban. Tajikistan, on the other hand, has opposed the Taliban and offered 
+shelter to the anti-Taliban National Resistance Front, a consequence both of Tajikistan’s own 
+struggles with Islamist militancy as well as ties with Afghan Tajiks (the country’s second largest 
+ethnic group), some of whom oppose the Taliban’s rule.29 
+
+China. The prospect of greater Chinese influence and activity in Afghanistan has attracted some 
+congressional attention since the Taliban takeover.30 China, which played a relatively limited role 
+in Afghanistan under the former government, made some economic investments in Afghanistan 
+(particularly in the development of Afghan minerals and other resources) prior to the Taliban 
+takeover, but major projects have not come to fruition due to instability, lack of infrastructure, and 
+other limitations.31 Despite concerns about Afghanistan-based Islamist terrorist groups, China has 
+signaled tacit acceptance of the Taliban’s rule, with its foreign minister emphasizing in a May 
+2022 visit to Kabul that China “respects the independent choices made by the Afghan people.”32 
+
+25 Ishaan Tharoor, “Pakistan’s hand in the Taliban’s victory,” Washington Post, August 18, 2021; Husain Haqqani, 
+“Pakista’’s Pyrrhic Victory in Afghanistan,” Foreign Affairs, July 22, 2021. 
+26 “Islamist militants present fresh challenge to Pakistan,” Reuters, January 31, 2023. 
+27 Rubin, op. cit. Pakistan, the United Nations, and others recognize the 1893 Durand Line as an international boundary, 
+but successive Afghan governments, including the Taliban, have not. See Vinay Kaura, “The Durand Line: A British 
+Legacy Plaguing Afghan-Pakistani Relations,” Middle East Institute, June 27, 2017. 
+28 Christian Hoj Hansen and Halimullah Kousary, “Can Iran get along with the Taliban?” War on the Rocks, June 7, 
+2022. 
+29 Abubakar Siddique, “Hostilities grow between Taliban and Tajikistan amid border closure, truck seizures,” 
+Gandhara, May 19, 2022; Rubin, op. cit. 
+30 See, for example,. 
+31 Jiayi Zhou et al., “Treading lightly: China’s footprint in a Taliban-led Afghanistan,” SIPRI, November 2022. 
+32 Shannon Tiezzi, “China signals it’s back to business as usual with Taliban government,” Diplomat, March 25, 2022. 
+
+Congressional Research Service  
+
+5 
+
+ 
+ 
+                                                 
+Afghanistan: Background and U.S. Policy 
+
+U.S. Policy Impacts of the Taliban’s Return to Power 
+Renewed Taliban rule in Afghanistan has implications for a number of U.S. policy interests. It has 
+created opportunities and challenges for the various terrorist groups that have a presence in 
+Afghanistan, and has rendered obsolete former U.S. plans to partner with Afghan authorities to 
+counter terrorist threats “over-the-horizon.” Advancing protection of women’s and other human 
+rights has been another major U.S. policy goal in Afghanistan since 2001; the Taliban have taken 
+numerous actions to roll back those rights since retaking power. U.S. policymakers, including 
+many Members of Congress, have also focused on securing the relocation of remaining U.S. 
+citizens and Afghans who previously worked for the U.S. government, a halting effort that 
+remains ongoing as of February 2023.  
+
+Counterterrorism  
+
+A number of Islamist extremist terrorist groups have for decades operated in Afghanistan, and the 
+Taliban have related to them in varying ways. ISKP and Al Qaeda (AQ) are two of the most 
+significant of these terrorist groups, and the Taliban’s takeover has affected them differently.  
+
+Long a significant U.S. counterterrorism concern, ISKP has clashed with the Taliban, as 
+mentioned above. Under the former U.S.-backed Afghan government, the United States launched 
+airstrikes in support of Taliban offensives against ISKP, a rare area of prior U.S.-Taliban 
+cooperation.33 In February 2022, the U.S. State Department announced rewards of up to $10 
+million each for information related to ISKP leader Sanaullah Ghafari as well as those responsible 
+for the August 26, 2021, ISKP attack at Kabul airport that killed and injured hundreds of people, 
+including over 30 U.S. service members.34  
+
+While ISKP is seen as more operationally ambitious and capable in Afghanistan than Al Qaeda, 
+the July 2022 killing of Al Qaeda leader Ayman al Zawahiri in Kabul attracted considerable 
+attention to the issue of AQ-Taliban ties.35 Despite (or perhaps because of) U.S. counterterrorism 
+pressure, those ties have persisted for decades.36 The circumstances of Zawahiri’s residence in 
+Kabul and what they might reveal about internal Taliban dynamics beyond continued AQ ties 
+remain unclear; neither the Taliban nor Al Qaeda officially acknowledged Zawahiri’s death.37 In 
+any case, per a February 2023 Department of Defense Inspector General report, Al Qaeda and its 
+regional affiliate “probably do not have the intent or capability to conduct directed attacks in the 
+U.S. homeland during the next year, and al-Qaeda almost certainly does not have the capability to 
+conduct attacks against U..S interests in the region.”38  
+
+33 Wesley Morgan, “Our secret Taliban Air Force,” Washington Post, October 22, 2020. 
+34 U.S. Department of State, “New Initiatives in the Fight Against ISIS-K,” February 7, 2022. 
+35 CRS Insight IN11976, Al Qaeda Leader Zawahiri Killed in U.S. Drone Strike in Afghanistan, by Clayton Thomas.  
+36 Thirtieth report of the Analytical Support and Sanctions Monitoring Team submitted pursuant to resolution 2610 
+(2021) concerning ISIL (Da’esh), Al-Qaida and associated individuals and entities, U.N. Document S/2022/547, 
+released July 15, 2022. 
+37 National Security Advisor Jake Sullivan suggested that some elements of the Taliban might not have supported or 
+even been aware of Zawahiri’s presence in Kabul, possibly leading to tensions within the Taliban. “The National 
+Security Advisor’s very busy week,” NPR, August 4, 2022. 
+38 Operation Enduring Sentinel: Lead Inspector General Report to the United States Congress, October 1, 2022-
+December 31, 2022, February 14, 2023. In December 2022, the State Department designated three Al Qaeda in the 
+Indian Subcontinent (AQIS) leaders as Specially Designated Global Terrorists pursuant to Executive Order 13224. 
+
+Congressional Research Service  
+
+6 
+
+ 
+ 
+                                                 
+Afghanistan: Background and U.S. Policy 
+
+From the outset of the U.S. withdrawal, U.S. officials said that the United States would maintain 
+the ability to combat terrorist threats in Afghanistan such as ISKP and Al Qaeda without a 
+military presence on the ground there by utilizing assets based outside of Afghanistan, in what 
+U.S. officials describe as an “over-the-horizon” approach.39 With the Taliban in control of 
+Afghanistan, the United States has had to alter any plans that had been predicated on the 
+continued existence of the former Afghan government and its security forces. U.S. Central 
+Command (CENTCOM) Commander General Michael Kurilla described over-the-horizon 
+capabilities as “extremely difficult but not impossible” in February 2022 testimony.40 The Biden 
+Administration has cited the Zawahiri strike as a demonstration of U.S. over-the-horizon 
+capabilities.41 
+
+Afghan Women and Girls42  
+
+The Afghanistan in which the Taliban came to power in August 2021 was in many ways a 
+different country than the one they last ruled in 2001. After 2001, women became active 
+participants in many parts of Afghan society; protections for them were enshrined in the country’s 
+2004 constitution. Though the Taliban takeover has reduced high levels of violence that 
+characterized the conflict, a development particularly welcomed by women in rural areas, the 
+Taliban’s return to power has been said to have had a significantly negative impact on Afghan 
+women and girls overall.43 In a September 2022 report, the UN Special Rapporteur on the 
+situation of human rights in Afghanistan said “In no other country have women and girls so 
+rapidly disappeared from all spheres of public life, nor are they as disadvantaged in every aspect 
+of their lives.”44 
+
+Upon taking power, the Taliban closed the Ministry of Women’s Affairs, which had been a part of 
+the former Afghan government, and reinstated the Ministry of Propagation of Virtue and 
+Prevention of Vice, which enforced the Taliban’s highly oppressive rule in the 1990s. The 
+ministry has issued guidance that seeks to impose new restrictions on Afghan women. Those 
+restrictions include a December 2021 prohibition on women driving long distances or flying 
+without a male guardian, a May 2022 decree mandating punishments for the male relatives of 
+women who do not wear a hijab that fully covers their bodies, and a November 2022 decision to 
+ban women from public parks and bath houses.45  
+
+Of particular concern to many U.S. policymakers are Taliban policies toward education for 
+Afghan girls. Taliban spokespersons said in early 2022 that girls’ secondary schools, effectively 
+shuttered in most of the country since the August 2021 takeover, would reopen with the start of 
+the new school year in late March 2022.46 However, on March 23, with some girls already present 
+in schools, the Taliban abruptly reversed course and announced that secondary schools for girls 
+
+39 See, for example, Remarks by President Biden on the Way Forward in Afghanistan, White House, April 14, 2021. 
+40 See transcript at http://www.cq.com/doc/congressionaltranscripts-6450846?3&search=8TnqSQnx. 
+41 The White House, National Security Strategy, October 2022. 
+42 See CRS In Focus IF11646, Afghan Women and Girls: Status and Congressional Action, by Clayton Thomas. 
+43 Anand Gopal, “The Other Afghan Women,” The New Yorker, September 6, 2021; Susannah George, “A year of 
+peace in one of Afghanistan’s deadliest provinces,” Washington Post, August 12, 2022. 
+44 United Nations Office of the High Commissioner for Human Rights, “High Commissioner updates the Human 
+Rights Council on Afghanistan,” June 15, 2022. 
+45 Belquis Ahmadi, “Taliban escalate new abuses against Afghan women, girls,” USIP, October 27, 2022. 
+46 Kathy Gannon, “The AP interview: Taliban pledge all girls in schools soon,” Associated Press, January 15, 2022. 
+
+Congressional Research Service  
+
+7 
+
+ 
+ 
+                                                 
+Afghanistan: Background and U.S. Policy 
+
+would remain closed, shocking many observers.47 The United States and many other countries 
+condemned the decision, and in October 2022, the State Department announced visa restrictions 
+on several Taliban figures responsible for the repression of women and girls in Afghanistan.48 
+One analysis attributes the change to the advocacy of hardline clerics within the group and 
+Akhundzada.49 Other Taliban figures, including both Baradar and the Haqqanis, reportedly 
+support secondary education for girls (and some educate their own daughters abroad).50 The 
+evidently greater influence of the group’s traditionally conservative leaders, and the 
+unwillingness or inability of more pragmatic figures to assert themselves, suggests that external 
+actors may have limited leverage over Taliban decisions. Some Afghan women have reportedly 
+continued to provide informal education to girls in private “secret schools,” and secondary 
+schools for girls have remained open in some areas.51 In December 2022, the Taliban suspended 
+women from attending university. 
+
+That same month, the Taliban also banned women from working for national and international 
+NGOs, threatening NGOs that do not comply with the suspension of their licenses. In response, 
+an estimated 94% of Afghan NGOs fully or partially ceased operations, and 11 U.S. 
+implementing partners (such as the International Rescue Committee and the Norwegian Refugee 
+Council) suspended operations in Afghanistan.52 The ban, which drew unanimous condemnation 
+from the U.N. Security Council and many other quarters, is likely to exacerbate the humanitarian 
+crisis in Afghanistan (see below), which disproportionately affects women and girls.53  
+
+Ongoing Relocations of U.S. Citizens and Certain Afghans 
+
+The Taliban’s entry into Kabul on August 15, 2021, triggered the mass evacuation of tens of 
+thousands of U.S. citizens (including all diplomatic personnel), partner country citizens, and 
+Afghans who worked for international efforts and/or the former Afghan government. U.S. 
+officials say that U.S. military forces facilitated the evacuation of 124,000 individuals, including 
+5,300 U.S. citizens, as part of Operation Allies Refuge, “the largest air evacuation in US 
+history.”54 Since that operation ended on August 30, 2021, the State Department has said that it 
+has assisted in the departure of 13,000 Afghans from the country, in addition to 800 U.S. citizens 
+and 600 lawful permanent residents as of August 2022.55  
+
+47 Kathy Gannon, “Many baffled by Taliban reneging pledge on girls’ education,” Associated Press, March 24, 2022. 
+48 Announcement of Visa Restriction in Response to the Repression of Women and Girls in Afghanistan, U.S. 
+Department of State, October 11, 2022. 
+49 Ashley Jackson, “The ban on older girls’ education: Taleban conservatives ascendant and a leadership in disarray,” 
+Afghanistan Analysts Network, March 29, 2022. 
+50 Stephanie Glinski and Ruchi Kumar, “Taliban u-turn over Afghan girls’ education reveals deep leadership 
+divisions,” Guardian, March 25, 2022; Sabawoon Samim, “Who gets to go to school? (3): Are Taleban attitudes 
+starting to change from within?” Afghanistan Analysts Network, February 7, 2022. 
+51 Sudarsan Raghavan, “Where learning is against the law: A secret school for Afghan girls,” Washington Post, 
+November 9, 2022; “Afghanistan: Six provinces keep schools open for girls despite nationwide ban,” Amu TV, January 
+1, 2023.  
+52 “Gender alert no. 3: Out of jobs, into poverty – the impact of the ban on Afghan women working in NGOs,” UN 
+Women, January 13, 2023; SIGAR January 30, 2023 Quarterly Report, pp. 60. 
+53 “Afghanistan Inter-Agency Rapid Gender Analysis, November 2022,” Gender in Humanitarian Action, December 
+22, 2022. 
+54 Statement available at https://www.armed-services.senate.gov/imo/media/doc/
+Printed%2028%20Sep%20SASC%20CJCS%20Written%20Statement.pdf. 
+55 Some of those evacuated U.S. citizens reportedly traveled to Afghanistan after August 2021. Department Press 
+Briefing—August 15, 2022, U.S. Department of State; Andrew Desiderio et al., “800 Americans evacuated from 
+
+Congressional Research Service  
+
+8 
+
+ 
+ 
+                                                 
+Afghanistan: Background and U.S. Policy 
+
+U.S. officials have characterized their efforts to secure the relocation of remaining U.S. citizens 
+and eligible Afghan partners who seek to leave the country as an “enduring mission.”56 According 
+to the State Department, the number of U.S. citizens it has identified in Afghanistan has 
+fluctuated in the midst of continued relocations and because of cases in which additional U.S. 
+citizens come forward to ask for assistance to leave.57 On April 28, 2022, Secretary Antony 
+Blinken said, “There are at present 126, as of a few days ago, American citizens remaining of 
+whom 37 seek to leave and that we are assisting.”58 The number of Special Immigrant Visa (SIV) 
+applicants, or those potentially eligible for an SIV or other forms of relief, who remain in 
+Afghanistan is unclear. In a February 2022 report, an advocacy group for SIV-eligible persons 
+stated that 78,000 of the estimated 81,000 SIV applicants in Afghanistan with visa applications 
+pending as of August 15, 2021 remain in Afghanistan.59 The State Department has disputed the 
+accuracy of this report.60 In May 2022, the State Department reportedly estimated that between 
+70,000 and 160,000 Afghans were eligible for SIVs.61 
+
+Some Afghans who seek to relocate reportedly remain in hiding, fearing Taliban retribution. The 
+Taliban issued a general amnesty after coming to power, but, according to various accounts, the 
+Taliban have carried out reprisals against figures aligned with the former government, including 
+hundreds of killings.62  
+
+The Taliban have reportedly interfered with departure flights, including by demanding seats for 
+Taliban-selected individuals to work abroad and remit money.63 Secretary Blinken said in late 
+April 2022 that the Taliban had allowed freedom of movement to some degree but cautioned that 
+there were still limited means of transportation to enable individuals to leave Afghanistan.64 The 
+United States has reportedly paid, through Qatar, for tickets on some Afghan airlines that fly to 
+Qatar for individuals to leave Afghanistan.65 Other impediments to relocations from Afghanistan 
+include logistical issues at Kabul’s international airport (see textbox) and issues with Afghans 
+obtaining travel documentation; the Taliban reportedly suspended issuing passports in October 
+2022.66 
+
+Afghanistan since Taliban takeover,” Politico, August 14, 2022. 
+56 Secretary Antony J. Blinken Remarks to the Press, U.S. Department of State, November 11, 2022.  
+57 Department Press Briefing—April 12, 2022, U.S. Department of State. 
+58 Testimony of Secretary of State Antony Blinken, in U.S. Congress, House Committee on Appropriations 
+Subcommittee on State, Foreign Operations, and Related Programs, Fiscal Year 2023 Budget Request for the 
+Department of State, hearings, 117th Cong., 2nd sess., April 28, 2022. 
+59 Association of Wartime Allies, “On The Ground Report—Feb 2022.”  
+60 Dan De Luce, “U.S. ‘left behind’ 78,000 Afghan allies in chaotic withdrawal: NGO report,” NBC News, March 1, 
+2022. 
+61 Alex Thompson and Allie Bice, “Biden’s broken promise to SIV holders,” Politico, May 16, 2022. 
+62 Barbara Marcolini et al., “The Taliban promised them amnesty. Then they executed them,” New York Times, April 
+12, 2022; Abubakar Siddique, “‘Afghanistan is hell’: Supporters of late Afghan general claim Taliban killings, 
+persecution,” Gandhara, November 2, 2022. 
+63 Courtney Kube, Dan De Luce and Josh Lederman, “The Taliban have halted all evacuee flights out of Afghanistan 
+for the past two weeks,” NBC News, December 23, 2021. 
+64 Testimony of Secretary of State Antony Blinken, op. cit. 
+65 Dan De Luce and Cortney Kube, “Biden admin relies on Taliban-controlled airline to help Afghans flee 
+Afghanistan,” NBC News, June 8, 2022. 
+66 “Kabul residents concerned over pause in issuance of passports,” TOLONews, January 2, 2023. 
+
+Congressional Research Service  
+
+9 
+
+ 
+ 
+ 
+                                                 
+Afghanistan: Background and U.S. Policy 
+
+Status of Kabul Airport 
+Relocation efforts have been complicated by the status of Kabul’s international airport. After the final departure of 
+U.S. forces, Qatar and Turkey worked to make the airport—which sustained damage to its runways, radar system, 
+and other components during the U.S. evacuation effort and withdrawal—operational. As of February 2023, some 
+domestic and regional airlines are carrying out flights from Kabul airport, but major foreign carriers have yet to 
+resume operations. Despite a preliminary December 2021 deal with Qatar and Turkey to operate several airports 
+in Afghanistan, the Taliban in September 2022 announced that they had reached a seemingly similar deal with the 
+United Arab Emirates to operate three airports, including Kabul’s.67 
+
+Economic Contraction and Humanitarian Crisis 
+The Taliban’s return to power has exacerbated one of the worst humanitarian crises in the world 
+in Afghanistan, long one of the world’s poorest and most aid-dependent countries. A number of 
+U.S. policy actions, including the cut-off of international development assistance, U.S. and 
+international sanctions on the Taliban, and the U.S. hold on Afghanistan’s central bank assets, 
+appear relevant to the economic breakdown that underlies the humanitarian crisis.  
+
+The United States and other international donors provided billions of dollars a year to support the 
+former Afghan government, financing over half of its $6 billion annual budget and as much as 
+80% of total public expenditures.68 Much of that development assistance halted with the Taliban’s 
+August 2021 takeover, leading the country’s economy to contract by as much as 35% in 2021 and 
+2022.69 The United Nations Secretary-General’s Special Representative for Afghanistan said in 
+December 2022 that “the Taliban’s economic management has been more effective than 
+expected,” citing lower levels of corruption, higher revenue collection, and the relative stability of 
+Afghanistan’s currency over the past year. Still, the economy remains reliant on international 
+donors to inject liquidity into the economy, including the United Nations, which has delivered 
+$1.8 billion in cash between December 2021 and January 2023 for humanitarian operations and 
+salary payments.70  
+
+The economic contraction has exacerbated what was already a severe humanitarian crisis in 
+Afghanistan prior to August 2021, due primarily to conflict, drought, and the COVID-19 
+pandemic. Indicators suggest that conditions have worsened further since August 2021: the World 
+Food Programme asserted in January 2023 that “Afghanistan continues to face the highest 
+prevalence of insufficient food consumption globally,” with 90% of Afghans reporting not having 
+enough to eat.71 The UN Office for the Coordination of Humanitarian Affairs reports that 
+humanitarian partners provided 26.1 million Afghans with at least one form of assistance in 2022, 
+and that “the outlook remains grim” given projected droughts and higher commodity prices.72  
+
+67 Charlotte Seet, “UAE civil aviation authority to operate Afghanistan air traffic control,” Simple Flying, September 8, 
+2022. 
+68 SIGAR January 2023 Quarterly Report, pp. 69-71.  
+69 “Afghanistan: Overview,” World Bank, October 7, 2022. 
+70 Ibid. 
+71 “Afghanistan Situation Report, January 18, 2023” World Food Program, January 2023. 
+72 UN OCHA, “Humanitarian Response Plan 2022,” February 6, 2023. 
+
+Congressional Research Service  
+
+10 
+
+ 
+ 
+                                                 
+Afghanistan: Background and U.S. Policy 
+
+U.S. Policy Responses 
+
+The United States has provided over $1.1 billion in humanitarian assistance in Afghanistan and 
+neighboring countries since the Taliban takeover.73 While such assistance plays a crucial role in 
+averting further humanitarian suffering, it is different in many ways from former U.S. security, 
+development, and stabilization assistance, which averaged over $5 billion annually between 
+FY2019 and FY2021. In addition to providing some humanitarian assistance, those funds paid the 
+salaries of Afghan soldiers and civil servants, supported key government services, and ultimately 
+made up a large portion of Afghanistan’s economy. The Biden Administration’s FY2023 budget 
+request proposes $345 million for health, education, and other forms of assistance in Afghanistan; 
+the lack of a U.S. diplomatic presence in Afghanistan may complicate or constrain the 
+implementation and/or oversight of U.S. funding. 
+
+Beyond assistance, the two U.S. policy areas that appear to have the greatest relevance to the 
+economic and humanitarian situation are sanctions and the ongoing U.S. hold on Afghanistan’s 
+central bank reserves. U.S. sanctions on the Taliban (in place in various forms since 1999) 
+remain, but it is unclear to what extent they are affecting humanitarian conditions in 
+Afghanistan.74 Since the Taliban’s takeover, the U.S. Department of the Treasury has issued 
+several general licenses stating that U.S. sanctions on the Taliban do not prohibit the provision of 
+assistance to Afghanistan and authorizing various humanitarian and commercial transactions.75 
+Still, the continued existence of sanctions might lead financial institutions or other actors to “de-
+risk” Afghanistan by refusing to engage in the country rather than risk violation of U.S. sanctions. 
+For more on U.S. sanctions on the Taliban, see CRS In Focus IF12039, Afghanistan: 
+Humanitarian Crisis, Economic Collapse, and U.S. Sanctions. 
+
+The Biden Administration’s hold on the U.S.-based assets of the Afghan central bank (DAB) has 
+also drawn scrutiny. Imposed days after the Taliban entered Kabul to prevent the Taliban from 
+accessing the funds, the Taliban and some foreign leaders have urged the United States to release 
+the hold on those assets, which total around $7 billion.76 On February 11, 2022, the Biden 
+Administration announced that it would “seek to facilitate access of $3.5 billion [of the assets] ... 
+for the benefit of the Afghan people,” pending ongoing litigation related to the September 11, 
+2001, attacks.77 In September 2022, the Administration announced the establishment of an 
+“Afghan Fund” (based in Switzerland) to “make targeted disbursements of that $3.5 billion to 
+help provide greater stability to the Afghan economy.”78 The fund’s four member Board of 
+Trustees met for the first time in November 2022.79 It has not, as of February 2023, made any 
+disbursements. In December 2022, the DAB approved a USAID-funded third party assessment of 
+the central bank’s anti-money laundering/countering the financing of terrorism controls.80  
+
+73 See SIGAR January 2023 Quarterly Report 
+74 “Economic causes of Afghanistan’s humanitarian crisis,” Human Rights Watch, August 4, 2022. 
+75 See Treasury Department Fact Sheet, December 22, 2021, at https://home.treasury.gov/system/files/126/
+afg_factsheet_20211222_nu.pdf.  
+76 CRS In Focus IF12052, Afghanistan Central Bank Reserves. 
+77 See Executive Order at https://home.treasury.gov/system/files/126/afghanistan_bank_eo.pdf. 
+78 The United States and Partners Announce Establishment of Fund for the People of Afghanistan, U.S. Department of 
+State, September 14, 2022. See also SIGAR Quarterly Report, October 30, 2022, pp. 112-115. 
+79 Readout of Fund for the Afghan People Board Meeting, U.S. Department of the Treasury, November 21, 2022. 
+80 SIGAR January 2023 Quarterly Report. 
+
+Congressional Research Service  
+
+11 
+
+ 
+ 
+                                                 
+Afghanistan: Background and U.S. Policy 
+
+Congressional Action and Outlook 
+The Taliban’s takeover attracted intense congressional and public scrutiny. U.S. public attention 
+appears to have since decreased, but Afghanistan remains the subject of congressional 
+engagement as some Members seek to account for the evident failure of U.S. efforts and grapple 
+with the reality of the Taliban’s renewed rule.81 
+
+Congressional oversight of Afghanistan has been robust. Congressional committees held at least 
+ten hearings specifically on Afghanistan in the weeks after the Taliban’s takeover.82 Senate 
+Foreign Relations minority staff released an assessment of the August 2021 evacuation in 
+February 2022, and the House Foreign Affairs Committee then-ranking member produced an 
+interim report on the withdrawal in August 2022.83 In addition, Congress established the 
+Afghanistan War Commission (AWC, Section 1094 of the FY2022 National Defense 
+Authorization Act, NDAA, P.L. 117-81) charged with examining the war and developing “a series 
+of lessons learned and recommendations for the way forward” in a final report to be issued within 
+three years. Per its website, the Commission “plans to formally convene in early 2023.”84 
+
+In the 118th Congress, two House committees have requested further information from the 
+Administration related to the U.S. military withdrawal from Afghanistan and related contingency 
+plans.85 One of them, the House Foreign Affairs Committee, said in its February 2023 
+Authorization and Oversight Plan that it will “comprehensively review policy, decision-making, 
+planning, and execution related to the August 2021 withdrawal from Afghanistan,” as well as 
+“examine U.S. policy toward Afghanistan.”86 
+
+In shaping U.S. policy toward Afghanistan, Congress may consider a number of options. 
+
+  Congress may examine how U.S. assistance, and conditions thereon, may affect 
+Taliban actions, including with regard to women’s rights more broadly and the 
+ability of Afghan girls to attend school in particular, to inform congressional 
+consideration of the Administration’s budget request and action on FY2023 
+appropriations; 
+
+81 Google Trends, “Afghanistan,” “8/31/2021–2/24/2023,” accessed February 24, 2023. 
+82 Hearings on Afghanistan include those held by House Foreign Affairs Committee (September 13, 2021, with 
+Secretary Blinken); Senate Foreign Relations Committee (September 14, 2021, with Secretary Blinken); Senate Armed 
+Services Committee (September 28, 2021, with Secretary Austin, General Milley, and General McKenzie); House 
+Armed Services Committee (September 29, 2021, with Secretary Austin, General Milley, and General McKenzie); 
+Senate Armed Services Committee (September 30, 2021, with outside witnesses); House Foreign Affairs Committee 
+(October 5, 2021, with former U.S. officials); Senate Banking, Housing, and Urban Affairs Committee (October 5, 
+2021, with outside witnesses); House Foreign Affairs Subcommittee on International Development, International 
+Organizations, and Global Corporate Impact (October 6, 2021, with SIGAR); Senate Armed Service Committee 
+(October 26, 2021, with DOD witnesses); and Senate Foreign Relations Committee (November 17, 2021, with former 
+U.S. officials). 
+83 Left Behind: A Brief Assessment of the Biden Administration’s Strategic Failures during the Afghanistan Evacuation, 
+United States Senate Committee on Foreign Relations Minority Report, February 2022; House Republican Interim 
+Report: A “Strategic Failure:” Assessing the Administration’s Afghanistan Withdrawal, Congressman Michael 
+McCaul, August 14, 2022. 
+84 Afghanistan War Commission.  
+85 “Chairman McCaul fires back at Biden Admin, renews oversight request on Afghanistan withdrawal,” House 
+Foreign Affairs Committee, January 12, 2023; February 17, 2023 letters from Chairman James Comer et al. to White 
+House National Security Affairs Director Jake Sullivan, Secretary of State Blinken, Secretary of Homeland Security 
+Mayorkas, USAID Administrator Power, Secretary of Defense Austin and Joint Chiefs of Staff Chairman Milley. 
+86 House Committee on Foreign Affairs, Authorization and Oversight Plan, 118th Congress, adopted February 8, 2023. 
+
+Congressional Research Service  
+
+12 
+
+ 
+ 
+                                                 
+Afghanistan: Background and U.S. Policy 
+
+  Congress may request or mandate additional information from the Administration 
+about the number and status of U.S. citizens and Afghan partners who remain in 
+Afghanistan and about the status of U.S. efforts to secure their relocation, 
+including resources devoted to those efforts, obstacles to further relocations, and 
+Administration plans to overcome those obstacles; 
+
+  Congress may examine the impact of U.S. sanctions on the designated 
+
+entities/individuals, the Afghan economy, and Afghan society more broadly, 
+including by requiring reporting thereon from the Administration and/or the 
+Government Accountability Office, to assess whether they are achieving their 
+intended objectives; and 
+
+  Congress may examine the impact and efficacy of oversight of previous U.S. 
+efforts in Afghanistan to shape future U.S. policy efforts, congressional 
+authorizing and appropriations measures, and oversight mechanisms (including 
+those intended to oversee U.S. assistance to other foreign partners, such as 
+Ukraine). Relevant reports from the AWC and the Department of Defense (and 
+the federally funded research and development center with whom the Department 
+contracts, as directed by Section 1323 of P.L. 117-81) are due to be submitted 
+within approximately one and two years, respectively. 
+
+Going forward, U.S. policy, including congressional action, could be influenced or constrained by 
+a number of factors, including 
+
+ 
+
+ 
+
+a dearth of information about dynamics in Afghanistan, given the lack of U.S. 
+diplomats and other on the ground observers and Taliban-imposed limitations on 
+journalists; and 
+
+the historical legacy of U.S. conflict with the Taliban, which may make 
+cooperation with the group, even to advance U.S. policy priorities, politically 
+difficult. 
+
+Perhaps more fundamental is the challenge of how to pursue U.S. policy priorities that may be 
+difficult to reconcile: stabilizing Afghanistan and providing support to Afghans while avoiding 
+actions that might benefit the Taliban. While providing humanitarian aid may be sufficient to 
+stave off mass casualties, it is unlikely to sustainably improve economic conditions. Financial 
+assistance could improve the Afghan economy, ameliorating the humanitarian situation, but 
+comes with the risk of diversion of some funds or broader benefits to the Taliban. In considering 
+Administration budget requests, Members of Congress may weigh these and other options, 
+including conditions on U.S. assistance. 
+
+The Taliban have called for international recognition, assistance, and sanctions relief, but since 
+returning to power they have not shown a willingness to make compromises on important issues 
+to obtain them. Nearly every country, U.S. partners and adversaries alike, has urged the Taliban to 
+form a more inclusive government, and many countries have joined the United States in calling 
+for the group to lift restrictions on women and girls and break ties with terrorist groups. In 
+response, the Taliban have stalled, equivocated, and ultimately either ignored or rejected outright 
+these calls. Foreign policy tools that the United States has traditionally used as leverage may not 
+be as effective in Afghanistan as in some other contexts.87 
+
+87 See, for example, Daniella Cheslow, “Frozen Afghan funds have done little to sway Taliban,” Wall Street Journal, 
+February 8, 2023; Marvin Weinbaum, “America can’t change the Taliban,” National Interest, August 15, 2022; Kate 
+Bateman, “A year after the Taliban takeover: what’s next for the U.S. in Afghanistan?” U.S. Institute of Peace, August 
+11, 2022. 
+
+Congressional Research Service  
+
+13 
+
+ 
+ 
+                                                 
+Afghanistan: Background and U.S. Policy 
+
+Author Information 
+
+Clayton Thomas 
+Specialist in Middle Eastern Affairs 
+
+Disclaimer 
+
+This document was prepared by the Congressional Research Service (CRS). CRS serves as nonpartisan 
+shared staff to congressional committees and Members of Congress. It operates solely at the behest of and 
+under the direction of Congress. Information in a CRS Report should not be relied upon for purposes other 
+than public understanding of information that has been provided by CRS to Members of Congress in 
+connection with CRS’s institutional role. CRS Reports, as a work of the United States Government, are not 
+subject to copyright protection in the United States. Any CRS Report may be reproduced and distributed in 
+its entirety without permission from CRS. However, as a CRS Report may include copyrighted images or 
+material from a third party, you may need to obtain the permission of the copyright holder if you wish to 
+copy or otherwise use copyrighted material. 
+
+Congressional Research Service  
+
+R45122 · VERSION 57 · UPDATED 
+
+14 
+
+ 
+ 
+ 
+    
+   
+ 
+ 
+ 
+

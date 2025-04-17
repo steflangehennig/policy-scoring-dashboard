@@ -1,0 +1,741 @@
+
+Afghanistan: Background and U.S. Policy In Brief
+Updated February 26, 2019
+            (R45122)
+          Jump to Main Text of Report
+
+
+
+Contents
+
+Overview
+U.S.-Taliban Negotiations
+Afghan Political Situation
+Military and Security Situation
+ANDSF Development and Deployment
+U.S. Troop Levels and Authorities
+Regional Dynamics: Pakistan and Other Neighbors
+Economy and U.S. Aid
+Outlook
+
+
+Figures
+
+Figure 1. Insurgent Activity in Afghanistan by District
+Figure 2. Control of Districts in Afghanistan
+
+
+
+Summary
+Afghanistan has been a central U.S. foreign policy concern since 2001, when the United States, in response to the terrorist attacks of September 11, 2001, led a military campaign against Al Qaeda and the Taliban government that harbored and supported it. In the intervening 17 years, the United States has suffered around 2,400 fatalities in Afghanistan (including 2 in 2019 to date) and Congress has appropriated more than $132 billion for reconstruction there. In that time, an elected Afghan government has replaced the Taliban, and nearly every measure of human development has improved, although future prospects of those measures remain mixed. The fundamental objective of U.S. efforts in Afghanistan is "preventing any further attacks on the United States by terrorists enjoying safe haven or support in Afghanistan."
+In early 2019, U.S. military engagement in Afghanistan appears closer to ending than perhaps ever before as U.S. officials negotiate directly with Taliban interlocutors on the issues of counterterrorism and the presence of U.S. troops. However, U.S. negotiators caution that talks are still at a preliminary stage, and Afghan government representatives have not been directly involved. Lead U.S. negotiator Zalmay Khalilzad insists that the U.S. seeks a comprehensive peace agreement but some worry that the U.S. will prioritize a military withdrawal over a complex political settlement that preserves some of the social, political, and humanitarian gains made since 2001. It remains unclear what kind of political arrangement could satisfy both Kabul and the Taliban to the extent that the latter fully abandons armed struggle.
+Press reports in December 2018 and early 2019 indicate that the Trump Administration may be considering withdrawing some U.S. forces, though U.S. officials maintain that no policy decision has been made to reduce U.S. force levels. Many observers assess that a full-scale U.S. withdrawal would lead to the collapse of the Afghan government and perhaps even the reestablishment of Taliban control over the entire country; by many measures, the Taliban are in a stronger military position now than at any point since 2001. Underlying the negotiations is the unsettled state of Afghan politics, which is a major complicating factor: Afghanistan held inconclusive parliamentary elections in October 2018 and the all-important presidential election, originally scheduled for April 2019, has been postponed until July 2019.
+For background information and analysis on the history of congressional engagement with Afghanistan and U.S. policy there, as well as a summary of recent Afghanistan-related legislative proposals, see CRS Report R45329, Afghanistan: Legislation in the 115th Congress, by Clayton Thomas.
+
+
+
+
+
+Overview
+The U.S. and Afghan governments, along with partner countries, remain engaged in combat with a robust Taliban-led insurgency. While U.S. military officials maintain that Afghan forces are "resilient" against the Taliban,1 by some measures insurgents are in control of or contesting more territory today than at any point since 2001.2 The conflict also involves an array of other armed groups, including active affiliates of both Al Qaeda (AQ) and the Islamic State (IS, also known as ISIS, ISIL, or by the Arabic acronym Da'esh). Since early 2015, the NATO-led mission in Afghanistan, known as "Resolute Support Mission" (RSM), has focused on training, advising, and assisting Afghan government forces; combat operations by U.S. counterterrorism forces, along with some partner forces, also continue and have increased since 2017. These two "complementary missions" make up Operation Freedom's Sentinel (OFS).3
+Simultaneously, the United States is engaged in an aggressive diplomatic effort to end the war, most notably through direct talks with Taliban representatives (a dramatic reversal of U.S. policy). A draft framework, in which the Taliban would prohibit terrorist groups from operating on Afghan soil in return for the eventual withdrawal of U.S. forces, was reached between U.S. and Taliban negotiators in January 2019, though lead U.S. negotiator Zalmay Khalilzad insists that "nothing is agreed until everything is agreed."4 Negotiations do not, as of February 2019, directly involve representatives of the Afghan government, leading some to worry that the U.S. will prioritize a military withdrawal over a complex political settlement that preserves some of the social, political, and humanitarian gains made since 2001. 
+Underlying the negotiations is the unsettled state of Afghan politics, which is a major complicating factor; Afghanistan held inconclusive parliamentary elections in October 2018 and the all-important presidential election, originally scheduled for April 2019, has been postponed until July 2019. The Afghan government has made some notable progress in reducing corruption and implementing its budgetary commitments, but faces domestic criticism for its failure to guarantee security and prevent insurgent gains.
+The United States has contributed more than $132 billion in various forms of aid to Afghanistan over the past decade and a half, from building up and sustaining the Afghan National Defense and Security Forces (ANDSF) to economic development. This assistance has increased Afghan government capacity, but prospects for stability in Afghanistan appear distant. Some U.S. policymakers still hope that the country's largely underdeveloped natural resources and/or geographic position at the crossroads of future global trade routes might improve the economic life of the country, and, by extension, its social and political dynamics as well. Nevertheless, Afghanistan's economic and political outlook remains uncertain, if not negative, in light of ongoing hostilities. 
+U.S.-Taliban Negotiations
+In August 2017, President Trump announced what he termed a new South Asia strategy in a nationally televised address. Many Afghan and U.S. observers interpreted the speech and the policies it promised (expanded targeting authorities for U.S. forces, greater pressure on Pakistan, a modest increase in the number of U.S. and international troops) as a sign of renewed U.S. commitment.5 However, after less than a year of continued military stalemate, the Trump Administration in July 2018 reportedly ordered the start of direct talks with the Taliban that did not include the Afghan government. This represented a dramatic reversal of U.S. policy, which had previously been to support an "Afghan-led, Afghan-owned" peace process.6 
+In September 2018, Secretary of State Mike Pompeo appointed former U.S. Ambassador to Afghanistan Zalmay Khalilzad to the newly created post of Special Representative for Afghanistan Reconciliation; Khalilzad has since met several times with Taliban representatives in Doha, Qatar (where the group maintains a political office) and Abu Dhabi. He has also had consultations with the Afghan, Pakistani, and other regional governments. 
+After a six-day series of negotiations in Doha in late January 2019, Khalilzad stated that, "The Taliban have committed, to our satisfaction, to do what is necessary that would prevent Afghanistan from ever becoming a platform for international terrorist groups or individuals," in return for which U.S. forces would eventually fully withdraw from the country.7 Khalilzad later cautioned that "we made significant progress on two vital issues: counter terrorism and troop withdrawal. That doesn't mean we're done. We're not even finished with these issues yet, and there is still work to be done on other vital issues like intra-Afghan dialogue and a complete ceasefire."8
+The Taliban have long refused to negotiate with representatives of the Afghan government, which they characterize as a corrupt and illegitimate puppet of foreign powers, and Kabul is not directly involved in the ongoing U.S.-Taliban negotiations.9 Some observers have criticized that arrangement; former U.S. Ambassador to Afghanistan Ryan Crocker argued that by not insisting on the inclusion of the Afghan government in these negotiations "we have ourselves delegitimized the government we claim to support," and advocated that the U.S. halt talks until the Taliban agree to include the Afghan government.10 
+Afghan President Ashraf Ghani has promised that his government will not accept any settlement that limits Afghans' rights. In a January 2019 televised address, he further warned that any agreement to withdraw U.S. forces that did not include Kabul's participation could lead to "catastrophe," pointing to the 1990s-era civil strife following the fall of the Soviet-backed government that led to the rise of the Taliban.11 
+ It remains unclear what kind of political arrangement could satisfy both Kabul and the Taliban to the extent that the latter fully abandons armed struggle in pursuit of its goals; by many measures, the Taliban are in a stronger military position now than at any point since 2001. The Taliban have recently given some more conciliatory signs, with one spokesman saying the group is "not seeking a monopoly on power."12 Still, many Afghans, especially women, who remember Taliban rule and oppose the group's tactics and beliefs, remain wary.13 
+Afghan Political Situation
+The unsettled state of Afghan politics is a major complicating factor for current negotiations. The leadership partnership (referred to as the national unity government) between President Ashraf Ghani and Chief Executive Officer (CEO) Abdullah Abdullah, which was brokered by the United States in the wake of the disputed 2014 election, has encountered challenges but remains intact.14 However, a trend in Afghan society and governance that worries some observers is increasing political fragmentation along ethnic lines.15 Such fractures have long existed in Afghanistan but were relatively muted during Hamid Karzai's presidency.16 These divisions are sometimes seen as a driving force behind some of the political upheavals that have challenged Ghani's government.17 
+Afghanistan held parliamentary elections in October 2018 that were marred by logistical, administrative, and security problems; full nationwide results are not available, as of February 2019. The all-important presidential election, originally scheduled for April 2019, has been postponed until July 2019. It is unclear to what extent, if any, that delay is related to ongoing U.S.-Taliban talks.18 U.S. officials have denied that the establishment of an interim government is part of their negotiations with the Taliban, but some observers speculate that such an arrangement (which Ghani has rejected) might be necessary to accommodate the reentry of Taliban figures into public life and facilitate the establishment of a new political system, which a putative settlement might require.19 
+Military and Security Situation 
+Since early 2015, the NATO-led mission in Afghanistan of 16,900 troops, known as "Resolute Support Mission" (RSM), has focused on training, advising, and assisting Afghan government forces. Combat operations by U.S. forces also continue and have increased in number since 2017. These two "complementary missions" comprise Operation Freedom's Sentinel (OFS).20 There are around 14,000 U.S. troops in Afghanistan, of which approximately 8,500 are part of RSM. The remaining 8,400 troops of RSM come from 38 partner countries. In early 2018, Afghanistan became "CENTCOM's main effort" as U.S. operations in Iraq and Syria wound down.21
+While U.S. commanders have asserted that the ANDSF performs well despite taking heavy casualties, insurgent forces retain, and by some measures are increasing, their ability to contest and hold territory (see Figure 1) and to launch high-profile attacks. U.S. officials have often emphasized the Taliban's failure to capture a provincial capital since their week-long seizure of Kunduz city in northern Afghanistan in September 2015, but two capitals, Farah and Ghazni, were briefly overrun in 2018 (in May and August, respectively). Former Secretary of Defense James Mattis described the Taliban assault on Ghazni, which left hundreds dead, as a failure for the Taliban, saying "every time they take something ... they're unable to hold it."22 
+
+
+
+
+Figure 1. Insurgent Activity in Afghanistan by District
+
+
+
+
+
+
+
+Source: SIGAR, October 30, 2018, Quarterly Report to the United States Congress.
+
+
+
+
+Since at least early 2017, U.S. military officials have publicly stated that the conflict is "largely stalemated."23 Arguably complicating that assessment, the extent of territory controlled or contested by the Taliban has steadily grown in recent years by most measures (see Figure 2). In its January 30, 2019, report, the Special Inspector General for Afghanistan Reconstruction (SIGAR) reported that the share of districts under government control or influence has fallen to 53.8%. This figure, which marks a slight decline from previous reports, is the lowest recorded by SIGAR since tracking began in 2015; 12% of districts are under insurgent control or influence, with the remaining 34% contested.24 
+
+
+
+
+Figure 2. Control of Districts in Afghanistan
+
+
+
+
+
+
+
+Source: SIGAR Quarterly Reports.
+Notes: The y-axis represents the number of districts, of which the U.S. government counts 407 in Afghanistan.
+
+
+
+
+While the Taliban retain the ability to conduct high-profile urban attacks, they also demonstrate considerable tactical capabilities.25 Due to the high levels of casualties inflicted by the Taliban, the Trump Administration has reportedly urged Afghan forces to pull out of some isolated outposts and rural areas.26 Reports indicate that ANDSF fatalities have averaged 30-40 a day in recent months, and President Ghani stated in January 2019 that over 45,000 security personnel had paid "the ultimate sacrifice" since he took office in September 2014 (he previously, in November 2018, stated that Afghan forces had suffered over 28,000 fatalities since 2015).27 So-called "green on blue" attacks (insider attacks on U.S. and coalition forces by Afghan nationals) are a sporadic, but persistent, problem—several U.S. servicemen died in such attacks in 2018, as did 85 Afghan soldiers.28 In October 2018, General Miller was present at an attack inside the Kandahar governor's compound by a Taliban infiltrator who killed a number of provincial officials, including the powerful police chief Abdul Raziq; Miller was unhurt but another U.S. general was wounded.29 The May 2016 killing of then-Taliban head Mullah Mansour by a U.S. strike demonstrated Taliban vulnerabilities to U.S. intelligence and combat capabilities, although it did not appear to have a measurable effect on Taliban effectiveness. Observers debate to what extent Mansour's successor, Haibatullah Akhundzada, exercises effective control over the group and how he is viewed within its ranks.30 
+Beyond the Taliban, a significant share of U.S. operations are aimed at the local Islamic State affiliate, known as Islamic State-Khorasan Province (ISKP, also known as ISIS-K), although there is debate over the degree of threat the group poses.31 ISKP and Taliban forces have sometimes fought over control of territory or because of political or other differences.32 In April 2018, a U.S. air strike killed the ISKP leader (himself a former Taliban commander) in northern Jowzjan province, which NATO described as "the main conduit for external support and foreign fighters from Central Asian states into Afghanistan."33 ISKP also has claimed responsibility for a number of large-scale attacks, many targeting Afghanistan's Shia minority. The UN reports that Al Qaeda, while degraded in Afghanistan and facing competition from ISKP, "remains a longer-term threat."34
+ANDSF Development and Deployment 
+The effectiveness of the ANDSF is key to the security of Afghanistan. As of January 2019, SIGAR reports that Congress has appropriated at least $83.1 billion for Afghan security since 2002.35 Since 2014, the United States generally has provided around 75% of the estimated $5-$6 billion a year to fund the ANDSF, with the balance coming from U.S. partners ($1 billion annually) and the Afghan government ($500 million).36
+Concerns about the ANDSF raised by SIGAR, the Department of Defense, and others include absenteeism, the fact that about 35% of the force does not reenlist each year, and the potential for rapid recruitment to dilute the force's quality;
+widespread illiteracy within the force;37 
+credible allegations of child sexual abuse and other potential human rights abuses;38 and
+casualty rates often described as unsustainable.Key metrics related to ANDSF performance, including casualties, attrition rates, and personnel strength, were classified by U.S. Forces-Afghanistan (USFOR-A) in response to a request from the Afghan government starting with the October 2017 SIGAR quarterly report. Although SIGAR previously published those metrics as part of its quarterly reports, they remain withheld.39 
+U.S. Troop Levels and Authorities
+At a February 2017 Senate Armed Services Committee hearing, then-mission commander of Resolute Support Mission General Nicholson indicated that the United States had a "shortfall of a few thousand" troops that, if filled, could help break the "stalemate."40 A subsequent National Security Council-led review of U.S. strategy that included plans for more troops was reportedly held up due to disagreements within the Administration.41 In June 2017, President Trump delegated to then-Secretary Mattis the authority to set force levels, reportedly limited to around 3,500 additional troops, in June 2017; Secretary Mattis signed orders to deploy them in September 2017.42 Those additional forces put the total number of U.S. troops in the country at around 14,000.43 
+Some reports in late 2018 and early 2019 indicate that President Trump may be contemplating ordering the withdrawal of some U.S. forces from Afghanistan.44 Still, U.S. officials maintain that no policy decision has been made to reduce U.S. force levels. Acting Secretary of Defense Patrick Shanahan stated in a visit to Kabul on February 11 that "I have not been directed to step down our forces in Afghanistan."45 In February 2019, the Senate passed S. 1, which includes language (Section 408) warning against a "precipitous withdrawal" of U.S. forces from Afghanistan and Syria.46
+
+
+
+
+NATO Contribution
+The current train, advise, and assist mission in Afghanistan, Resolute Support Mission (RSM), is led by NATO, and NATO partners have been heavily engaged in Afghanistan since 2001. At its height in 2012, the number of NATO and non-NATO partner forces reached 130,000, around 100,000 of whom were American. As of December 2018, RSM is made up of around 16,900 troops from 39 countries, of whom 8,475 are American. This represents an increase of about 3,000 troops from NATO and other partner countries. At the NATO summit in July 2018, NATO leaders extended their financial commitment to Afghan forces to 2024 (previously 2020).47
+
+
+
+
+Additionally, U.S. forces now have broader authority to operate independently of Afghan forces and "attack the enemy across the breadth and depth of the battle space," expanding the list of targets to include those related to "revenue streams, support infrastructure, training bases, infiltration lanes."48 This was demonstrated in a series of operations, beginning in the fall of 2017, against Taliban drug labs. These operations, often highlighted by U.S. officials, sought to degrade what is widely viewed as one of the Taliban's most important sources of revenue, namely the cultivation, production, and trafficking of narcotics.49 Some have questioned the impact of these strikes, which came to an end in late 2018.50 In November 2018, the United Nations reported that the total area used for poppy cultivation in 2018 was 263,000 hectares, the second-highest level recorded since monitoring began in 1994.51 
+Regional Dynamics: Pakistan and Other Neighbors
+Regional dynamics, and the involvement of outside powers, are central to the conflict in Afghanistan. The neighboring state widely considered most important in this regard is Pakistan, which has played an active, and by many accounts negative, role in Afghan affairs for decades. President Trump has directly accused Pakistan of "housing the very terrorists that we are fighting."52 Afghan leaders, along with U.S. military commanders, attribute much of the insurgency's power and longevity either directly or indirectly to Pakistan. President Ghani said in February 2018 that Pakistan was "the center of the Taliban."53 Experts debate the extent to which Pakistan is committed to Afghan stability or is attempting to exert control in Afghanistan through ties to insurgent groups, most notably the Haqqani Network, a U.S.-designated Foreign Terrorist Organization (FTO) that has become an official, semiautonomous component of the Taliban.54 U.S. officials have repeatedly identified militant safe havens in Pakistan as a threat to security in Afghanistan, though some observers question the validity of that charge in light of the Taliban's increased territorial control within Afghanistan itself.55 
+Pakistan may view a weak and destabilized Afghanistan as preferable to a strong, unified Afghan state (particularly one led by a Pashtun-dominated government in Kabul; Pakistan has a large Pashtun minority). However, at least some Pakistani leaders have stated that instability in Afghanistan could rebound to Pakistan's detriment; Pakistan has struggled with indigenous Islamist militants of its own.56 Afghanistan-Pakistan relations are further complicated by the large Afghan refugee population in Pakistan and a long-standing border dispute over which violence has broken out on several occasions.57 Pakistan sees Afghanistan as potentially providing strategic depth against India, but may also anticipate that improved relations with Afghanistan's leadership could limit India's influence in Afghanistan. Indian interest in Afghanistan stems largely from India's broader regional rivalry with Pakistan, which impedes Indian efforts to establish stronger and more direct commercial and political relations with Central Asia.
+In his August 2017 speech, President Trump announced what he characterized as a new approach to Pakistan, saying, "We can no longer be silent about Pakistan's safe havens for terrorist organizations, the Taliban, and other groups that pose a threat to the region and beyond."58 He also, however, praised Pakistan as a "valued partner," citing the close U.S.-Pakistani military relationship. In January 2018, the Trump Administration announced plans to suspend security assistance to Pakistan, a decision that has impacted billions of dollars in aid.59 In February 2019, CENTCOM Commander General Joseph Votel stated, "Pakistan has not taken concrete actions against the safe havens of violent extremist organizations inside its borders," but praised Pakistan for some "positive steps" in assisting Special Representative Khalilzad's reconciliation efforts.60
+Afghanistan largely maintains cordial ties with its other neighbors, including the post-Soviet states of Central Asia, though some warn that rising instability in Afghanistan may complicate those relations.61 In the past year, multiple U.S. commanders have warned of increased levels of assistance, and perhaps even material support, for the Taliban from Russia and Iran, both of which cite IS presence in Afghanistan to justify their activities.62 Both nations were opposed to the Taliban government of the late 1990s, but reportedly see the Taliban as a useful point of leverage vis-a-vis the United States. Afghanistan may also represent a growing priority for China in the context of broader Chinese aspirations in Asia and globally.63 
+President Trump mentioned neither Iran nor Russia in his August 2017 speech, and it is unclear how, if at all, the U.S. approach to them might have changed as part of the new strategy.64 Afghanistan may also represent a growing priority for China in the context of broader Chinese aspirations in Asia and globally.65 In his speech, President Trump did encourage India to play a greater role in Afghan economic development; this, along with other Administration messaging, has compounded Pakistani concerns over Indian activity in Afghanistan.66 India has been the largest regional contributor to Afghan reconstruction, but New Delhi has not shown an inclination to pursue a deeper defense relationship with Kabul. Afghans themselves appear divided on the wisdom of cultivating stronger ties with India.67 
+Economy and U.S. Aid
+Economic development is pivotal to Afghanistan's long-term stability, though indicators of future growth are mixed. Decades of war have stunted the development of most domestic industries, including mining.68 The economy has also been hurt by a steep decrease in the amount of aid provided by international donors. Afghanistan's Gross Domestic Product (GDP) has grown an average of 7% per year since 2003, but growth slowed to 2% in 2013 due to aid cutbacks and political uncertainty about the post-2014 security situation. Since 2015, Afghanistan has experienced a "slight recovery" with growth of between 2% and 3% in 2016 and 2017, though the increase in the poverty rate (55% living below the national poverty line in 2016-2017 compared to 38% in 2012-2013) complicates that picture.69 A severe drought affecting northern and western Afghanistan has compounded economic and humanitarian challenges.70 
+Social conditions in Afghanistan remain equally mixed. On issues ranging from human trafficking71 to religious freedom to women's rights, Afghanistan has, by all accounts, made significant progress since 2001, but future prospects in these areas remain uncertain. 
+Congress has appropriated more than $132 billion in aid for Afghanistan since FY2002, with about 63% for security and 28% for development (and the remainder for civilian operations and humanitarian aid).72 The Administration's FY2019 budget requests $5.2 billion for the ANDSF, $500 million in Economic Support Funds, and smaller amounts to help the Afghan government with tasks like combating narcotics trafficking.73 This is roughly even with the overall FY2017 enacted level of about $5.6 billion (down from nearly $17 billion in FY2010). These figures do not include the cost of U.S. combat operations (including related regional support activities), which was estimated at a total of $752 billion since FY2001 in a July 2017 DOD report, with approximately $45 billion requested for each of FY2018 and FY2019.74
+Outlook
+Insurgent and terrorist groups demonstrated considerable capabilities in 2018, throwing into sharp relief the daunting security challenges that the Afghan government and its U.S. and international partners face. At the same time, hopes for a negotiated settlement have risen, inspired by developments such as the June 2018 nationwide cease-fire and, most importantly, direct U.S.-Taliban talks, though the prospects for such negotiations to deliver a settlement are uncertain. 
+U.S. policy has sought to bring the Taliban to the negotiating table by compelling the group to conclude that continued military struggle is futile in light of combined U.S., NATO, and ANDSF capabilities. It is still unclear, however, how the Taliban perceives its fortunes; given the group's battlefield gains in 2018, one observer has said that "the group has little reason to commit to a peace process: it is on a winning streak."75 
+Observers differ on whether the Taliban pose an existential threat to the Afghan government, given the current military balance. That dynamic could change if the United States alters the level or nature of its troop deployments in Afghanistan or funding for the ANDSF. President Ghani has said, "[W]e will not be able to support our army for six months without U.S. [financial] support."76 Notwithstanding direct U.S. support, Afghan political dynamics, particularly the willingness of political actors to directly challenge the legitimacy and authority of the central government, even by extralegal means, may pose a serious threat to Afghan stability in 2019 and beyond, regardless of Taliban military capabilities.
+A potential collapse of the Afghan military and/or the government that commands it could have significant implications for the United States, particularly given the nature of negotiated security arrangements. Regardless of how likely the Taliban would be to gain full control over all, or even most, of the country, the breakdown of social order and the fracturing of the country into fiefdoms controlled by paramilitary commanders and their respective militias may be plausible, even probable. Afghanistan experienced a similar situation nearly thirty years ago. Though Soviet troops withdrew from Afghanistan by February 1989, Soviet aid continued, sustaining the communist government in Kabul for nearly three years. However, the dissolution of the Soviet Union in December 1991 ended that aid, and a coalition of mujahedin forces overturned the government in April 1992. Almost immediately, mujahedin commanders turned against each other, leading to a complex civil war during which the Taliban was founded, grew, and took control of most of the country, eventually offering sanctuary to Al Qaeda. While the Taliban and Al Qaeda are still "closely allied" according to the UN,77 Taliban forces have clashed repeatedly with the Afghan Islamic State affiliate. Under a more unstable future scenario, alliances and relationships among extremist groups could evolve or security conditions could change, offering new opportunities to transnational terrorist groups whether directly or by default.
+After more than 17 years of war, Members of Congress and other U.S. policymakers may reassess notions of what "victory" in Afghanistan looks like, examining the array of potential outcomes, how these outcomes might harm or benefit U.S. interests, and the relative levels of U.S. engagement and investment required to attain them.78 The present condition, which is essentially a stalemate that has existed for several years, could persist; some argue that the United States "has the capacity to sustain its commitment to Afghanistan for some time to come" at present levels.79 Others counter that "the threat in Afghanistan doesn't warrant a continued U.S. military presence and the associated costs—which are not inconsequential."80
+The Trump Administration has described U.S. policy in Afghanistan as "grounded in the fundamental objective of preventing any further attacks on the United States by terrorists enjoying safe haven or support in Afghanistan."81 For years, some analysts have dismissed that line of reasoning, describing it as a strategic "myth" and arguing that "the safe haven fallacy is an argument for endless war based on unwarranted worst-case scenario assumptions."82 Some of these analysts and others dismiss what they see as a disproportionate focus on the military effort, citing evidence that "the terror threat to Americans remains low" to argue that "a strategy that emphasizes military power will continue to fail."83 As many have observed, increased political instability, fueled by questions about the central government's authority and competence and rising ethnic tensions, may pose as serious a threat to Afghanistan as the Taliban does.84 
+In light of these internal political dynamics, Members of Congress may examine how the United States can leverage its assets, influence, and experience in Afghanistan, as well as those of Afghanistan's neighbors and international organizations, to encourage more equal, inclusive, and effective governance. Congress could also seek to help shape the U.S. approach to potential negotiations around amending the constitution or otherwise altering the highly centralized Afghan political system, e.g., through legislation and public statements.85 Core issues for Congress include its role in authorizing, appropriating funds for, and overseeing U.S. military activities, aid, and regional policy implementation.
+
+
+
+Author Contact Information
+Clayton Thomas, Analyst in Middle Eastern Affairs
+        ([email address scrubbed], [phone number scrubbed])
+      
+
+
+Footnotes
+
+
+1.
+            
+
+ Lolita C. Baldor and Matthew Pennington, "Attack in Afghanistan is Reminder of Formidable Task," Washington Post, October 20, 2018.
+
+
+
+2.
+            
+
+ SIGAR, Quarterly Report to the United States Congress, January 30, 2019.
+
+
+
+3.
+            
+
+ "Operation Freedom's Sentinel, Quarterly Report to Congress, July 1 to September 30, 2018," Lead Inspector General for Overseas Contingency Operations, November 19, 2018.
+
+
+
+4.
+            
+
+ Pamela Constable and Paul Sonne, "U.S.-Taliban Talks Appear Closer to Pact after Marathon Negotiations in Qatar," The Washington Post, January 26, 2019.
+
+
+
+5.
+            
+
+ Pamela Constable, "In Afghanistan, Trump's Speech Brings Relief to Some. To Others, 'It Means More War, Destruction,'" Washington Post, August 22, 2017. 
+
+
+
+6.
+            
+
+ Mujib Mashal and Eric Schmitt, "White House Orders Direct Taliban Talks to Jump-Start Afghan Negotiations," New York Times, July 15, 2018. 
+
+
+
+7.
+            
+
+ Mujib Mashal, "U.S. and Taliban Agree in Principle to Peace Framework, Envoy Says," New York Times, January 28, 2019.
+
+
+
+8.
+            
+
+ U.S. Special Representative Zalmay Khalilzad, Twitter, January 31, 2019. Available at https://twitter.com/US4AfghanPeace/status/1090944551500607488. 
+
+
+
+9.
+            
+
+ "Letter of the Islamic Emirate to the American people!" February 14, 2018. Available at http://apps.washingtonpost.com/g/documents/world/taliban-attempts-to-appeal-to-us-audience-in-new-letter/2770/.
+
+
+
+10.
+            
+
+ Ryan Crocker, "I Was Ambassador to Afghanistan. This Deal is a Surrender," Washington Post, January 29, 2019. 
+
+
+
+11.
+            
+
+ Hasib Danish Alikozai and Mohammad Habibzada, "Afghans Worry as US Makes Progress in Taliban Talks," Voice of America, January 29, 2019.
+
+
+
+12.
+            
+
+ Kathy Gannon, "Taliban Say They Are Not Looking to Rule Afghanistan Alone," January 30, 2019.
+
+
+
+13.
+            
+
+ Pamela Constable, "The Return of a Taliban Government? Afghanistan Talks Raise Once-Unthinkable Question," Washington Post, January 29, 2019.
+
+
+
+14.
+            
+
+ See, for example, Mujib Mashal, "Afghan Chief Executive Abdullah Denounces President Ghani as Unfit for Office," New York Times, August 11, 2016.
+
+
+
+15.
+            
+
+ Frud Bezhan, "Leaked Memo Fuels New Allegations of Ethnic Bias in Afghan Government," RFERL, November 20, 2017.
+
+
+
+16.
+            
+
+ See, for example, Azam Ahmed and Habib Zahori, "Afghan Ethnic Tensions Rise in Media and Politics," New York Times, February 18, 2014.
+
+
+
+17.
+            
+
+ Namely, contention with such powerbrokers as Vice President Abdul Rashid Dostum, leader of the country's Uzbek minority; former Balkh governor Atta Mohammad Noor, prominent member of Afghanistan's major Tajik political party; and former President Hamid Karzai, who maintains support among some Afghans.
+
+
+
+18.
+            
+
+ Hamid Shalizi, "Afghanistan to Delay Presidential Election to July: Election Body," Reuters, December 30, 2018.
+
+
+
+19.
+            
+
+ Gul Maqsood Sabit, "On the Verge of Peace, Afghanistan Needs a Carefully Managed Strategy," Diplomat, January 4, 2019; Ali Yawar Adili, "Afghanistan's 2019 Elections (1): The Countdown to the Presidential Election Has Kicked Off," Afghanistan Analysts Network, January 23, 2019. 
+
+
+
+20.
+            
+
+ "Operation Freedom's Sentinel, Quarterly Report to Congress, July 1 to September 30, 2018," Lead Inspector General for Overseas Contingency Operations, November 19, 2018.
+
+
+
+21.
+            
+
+ Department of Defense Press Briefing By Major General Hecker via Teleconference from Kabul, Afghanistan, February 7, 2018. 
+
+
+
+22.
+            
+
+ "Media Availability with Secretary Mattis En Route to Bogota, Colombia," Department of Defense, August 16, 2018; W.J. Hennigan, "Exclusive: Inside the U.S. Fight to Save Ghazni from the Taliban," Time, August 23, 2018.
+
+
+
+23.
+            
+
+ Ellen Mitchell, "Afghanistan War at a Stalemate, Top General Tells Lawmakers," The Hill, December 4, 2018.
+
+
+
+24.
+            
+
+ SIGAR, Quarterly Report to the United States Congress, October 30, 2018. 
+
+
+
+25.
+            
+
+ Alec Worsnop, "From Guerilla to Maneuver Warfare: A Look at the Taliban's Growing Combat Capability," Modern War Institute, June 6, 2018.
+
+
+
+26.
+            
+
+ Thomas Gibbons-Neff and Helene Cooper, "Newest U.S. Strategy in Afghanistan Mirrors Past Plans for Retreat," New York Times, July 28, 2018.
+
+
+
+27.
+            
+
+ Rod Nordland, "The Death Toll for Afghan Forces Is Secret. Here's Why," New York Times, September 21, 2018; "Afghanistan's Ghani says 45,000 Security Personnel Killed Since 2014," BBC, January 25, 2019; Ankit Panda, "Ghani: Afghan Police, Army Death Toll Since 2015 at More Than 28,500," Diplomat, November 16, 2018.
+
+
+
+28.
+            
+
+ Richard Sisk, "85 Afghan Troops Killed in Insider Attacks This Year, Report Finds," Military.com, November 5, 2018. 
+
+
+
+29.
+            
+
+ Pamela Constable and Sayed Salahuddin, "U.S. Commander in Afghanistan Survives Deadly Attack at Governor's Compound That Kills Top Afghan Police General," Washington Post, October 18, 2018.
+
+
+
+30.
+            
+
+ Matthew Dupee, "Red on Red: Analyzing Afghanistan's Intra-Insurgency Violence," CTC Sentinel, January 2018.
+
+
+
+31.
+            
+
+ See, for example, Kyle Rempfer, "Is ISIS Gaining 'Serious' Ground in Afghanistan? Russia Says Yes. The US Says No," Military Times, March 26, 2018.
+
+
+
+32.
+            
+
+ See, for example, Amira Jadoon, et al., "Challenging the ISK Brand in Afghanistan-Pakistan: Rivalries and Divided Loyalties," CTC Sentinel, Vol. 11, Issue 4, April 26, 2018; Najim Rahim and Rod Nordland, "Taliban Surge Routs ISIS in Northern Afghanistan," New York Times, August 1 2018.
+
+
+
+33.
+            
+
+ NATO Resolute Support Media Center, "Top IS-K Commander Killed in Northern Afghanistan," April 9, 2018. American officials are reportedly tracking attempts by IS fighters to enter Afghanistan and use Afghan territory as a base from which to plan and conduct international operations. Helene Cooper, "U.S. Braces for Return of Terrorist Safe Havens to Afghanistan," New York Times, March 12, 2018
+
+
+
+34.
+            
+
+ Twenty-second report of the Analytical Support and Sanctions Monitoring Team submitted pursuant to resolution 2368 (2017) concerning ISIL (Da'esh), Al-Qaida and associated individuals and entities, S/2018/705, July 27, 2018.
+
+
+
+35.
+            
+
+ SIGAR, Quarterly Report to the United States Congress, January 30, 2019.
+
+
+
+36.
+            
+
+ The FY2018 National Defense Authorization Act (NDAA) conference report authorizes and the FY2018 defense appropriation provides the Administration's request of $4.9 billion for the ANDSF. The Administration's FY2019 request seeks $5.2 billion for the ANDSF, and the House- and Senate-passed versions of the FY2019 NDAA (P.L. 115-232) would authorize the appropriation of the requested amount.
+
+
+
+37.
+            
+
+ Most estimates put the rate of illiteracy within the ANDSF at over 60%, but reliable figures may not exist. SIGAR reported in January 2014 that means of measuring the effectiveness of ANDSF literacy programs were "limited," and that judgment seems not to have changed in the years since. 
+
+
+
+38.
+            
+
+ See SIGAR Report 17-47, "Child Sexual Assault in Afghanistan: Implementation of the Leahy Laws and Reports of Assault by Afghan Security Forces," June 2017 (released on January 23, 2018).
+
+
+
+39.
+            
+
+ Shawn Snow, "Report: US Officials Classify Crucial Metrics on Afghan Casualties, Readiness," Military Times, October 30, 2017.
+
+
+
+40.
+            
+
+ Statement for the record by General John W. Nicholson, Commander, U.S. Forces – Afghanistan before the Senate Armed Services Committee on the Situation in Afghanistan, February 9, 2017.
+
+
+
+41.
+            
+
+ Susan Glasser, "The Trump White House's War Within," Politico, July 24, 2017. Some participants reportedly expressed skepticism that a few thousand more troops could meaningfully impact dynamics on the ground, pointing to previous "surges" that did not do so, and raised concerns about an open-ended U.S. commitment in a country where U.S. troops have already been deployed for nearly two decades. Others countered that the relative cost of the U.S. commitment in Afghanistan is a worthy investment when viewed against the cost of a terrorist attack the absence of U.S. forces might allow, comparing it to "term-life insurance." Asawin Suebsaeng and Spencer Ackerman, "$700 Billion and 16 Years at War Is a 'Modest Amount,' U.S. Officers Say," Daily Beast, July 24, 2017.
+
+
+
+42.
+            
+
+ Tara Copp, "Mattis Signs Orders to Send about 3,500 More US Troops to Afghanistan," Military Times, September 11, 2017.
+
+
+
+43.
+            
+
+ As of September 30, 2017, the total number of active duty and reserve forces in Afghanistan was 15,298. Defense Manpower Data Center, Military and Civilian Personnel by Service/Agency by State/Country Quarterly Report, September 2017.
+
+
+
+44.
+            
+
+ Dan Lamothe and Josh Dawsey, "Trump Wanted a Big Cut in Troops in Afghanistan. New U.S. Military Plans Fall Short," Washington Post, January 8, 2019.
+
+
+
+45.
+            
+
+ "Acting Pentagon Chief: No Orders to Withdraw From Afghanistan," Al Jazeera, February 11, 2019.
+
+
+
+46.
+            
+
+ Patricia Zengerle, "Senate Breaks from Trump with Syria Troops Vote," Reuters, February 4, 2019.
+
+
+
+47.
+            
+
+ Brussels Summit Declaration, issued July 11, 2018.
+
+
+
+48.
+            
+
+ Department of Defense Press Briefing by General Nicholson via teleconference from Kabul, Afghanistan, November 20, 2017.
+
+
+
+49.
+            
+
+ Deputy Secretary of State John Sullivan estimated in a February 6, 2018, Senate Foreign Relations Committee hearing that 65% of Taliban revenues are derived from narcotics.
+
+
+
+50.
+            
+
+ Kyle Rempfer, "Doubts Rise Over Effectiveness of Bombing Afghan Drug Labs," Military Times, February 5, 2018.
+
+
+
+51.
+            
+
+ "Afghanistan Opium Survey 2018," United Nations Office on Drugs and Crime, November 19, 2018.
+
+
+
+52.
+            
+
+ White House Office of the Press Secretary, Remarks by President Trump on the Strategy in Afghanistan and South Asia, August 21, 2017.
+
+
+
+53.
+            
+
+ Hayatullah Amanat, "Pakistan Is The Center Of Taliban, Ghani Tells The Nation," Tolo News, February 2, 2018.
+
+
+
+54.
+            
+
+ For more, see CRS In Focus IF10604, Al Qaeda and Islamic State Affiliates in Afghanistan, by Clayton Thomas. 
+
+
+
+55.
+            
+
+ Author interviews with Pakistani military officials, Rawalpindi, Pakistan, February 21, 2018.
+
+
+
+56.
+            
+
+ Jon Boone, "Musharraf: Pakistan and India's Backing for 'Proxies' in Afghanistan Must Stop," Guardian, February 13, 2015; author interviews with Pakistani military officials, Islamabad, Pakistan, February 2018.
+
+
+
+57.
+            
+
+ About 2 million Afghan refugees have returned from Pakistan since 2001, but approximately 2.4 million remain in Pakistan and Pakistan is pressing many of them to return; the forced return of several hundred thousand since 2016 may raise questions under international law and exacerbate humanitarian needs in Afghanistan. Nassim Majidi, "From Forced Migration to Forced Returns in Afghanistan: Policy and Program Implications," Migration Policy Institute, November 29, 2017.
+
+
+
+58.
+            
+
+ White House Office of the Press Secretary, Remarks by President Trump on the Strategy in Afghanistan and South Asia, August 21, 2017.
+
+
+
+59.
+            
+
+ Mark Landler and Gardiner Harris, "Trump, Citing Pakistan as a 'Safe Haven' for Terrorists, Freezes Aid," New York Times, January 4, 2018. Pakistan closed its ground and air lines of communication (GLOCs and ALOCs, respectively) to the United States after the latter suspended security aid during an earlier period of U.S.-Pakistan tensions in 2011-2012
+
+
+
+60.
+            
+
+ Statement of General Joseph L. Votel, Commander, U.S. Central Command before the Senate Armed Services Committee on the Posture of U.S. Central Command, February 5, 2019.
+
+
+
+61.
+            
+
+ Ivan Safranchuk, "Afghanistan and Its Central Asian Neighbors: Toward Dividing Insecurity," Center for Strategic and International Studies, June 2017.
+
+
+
+62.
+            
+
+ Carlotta Gall, "In Afghanistan, U.S. Exits, and Iran Comes In," New York Times, August 5, 2017; Justin Rowlatt, "Russia 'Arming the Afghan Taliban', says US," BBC, March 23, 2018.
+
+
+
+63.
+            
+
+ Thomas Ruttig, "Climbing on China's Priority List: Views on Afghanistan from Beijing," Afghanistan Analysts Network, April 10, 2018.
+
+
+
+64.
+            
+
+ In October 2018, the Trump Administration sanctioned several Iranian military officials for providing support to the Taliban "Treasury and the Terrorist Financing Targeting Center Partners Sanction Taliban Facilitators and their Iranian Supporters," U.S. Department of the Treasury, October 23, 2018.
+
+
+
+65.
+            
+
+ Thomas Ruttig, "Climbing on China's Priority List: Views on Afghanistan from Beijing," Afghanistan Analysts Network, April 10, 2018; Michael Martina, "Afghan Troops to Train in China, Ambassador Says," Reuters, September 6, 2018.
+
+
+
+66.
+            
+
+ Author interviews with Pakistani military and political officials, Islamabad and Rawalpindi, Pakistan, February 2018.
+
+
+
+67.
+            
+
+ Author interview with Afghan officials, Islamabad, Pakistan, February 2018.
+
+
+
+68.
+            
+
+ Much attention has been paid to Afghanistan's potential mineral and hydrocarbon resources, which by some estimates could be considerable but have yet to be fully explored or developed. Once estimated at nearly $1 trillion, the value of Afghan mineral deposits has since been revised downward, but those deposits reportedly have attracted interest from the Trump Administration. Mark Landler and James Risen, "Trump Finds Reason for the U.S. to Remain in Afghanistan: Minerals," New York Times, July 25, 2017. Additionally, Afghanistan's geographic location could position it as a transit country for others' resources. The United States has emphasized the development of a Central Asia-South Asia trading hub, dubbed a "New Silk Road" (NSR), in an effort to keep Afghanistan economically viable and perhaps also to counter a similar Chinese initiative ("One Belt, One Road").
+
+
+
+69.
+            
+
+ "Afghanistan," CIA World Factbook, last updated February 19, 2019.
+
+
+
+70.
+            
+
+ "Afghan Drought 'Displacing More People Than Taliban Conflict,'" BBC, October 17, 2018.
+
+
+
+71.
+            
+
+ Afghanistan was ranked as "Tier 2" in the State Department Trafficking in Persons Report for 2017, an improvement from 2016 when Afghanistan was ranked as "Tier 2: Watch List" on the grounds that the Afghan government was not demonstrating increased efforts against trafficking since the prior reporting period.
+
+
+
+72.
+            
+
+ SIGAR, Quarterly Report to the United States Congress, January 30, 2019.
+
+
+
+73.
+            
+
+ For more, see CRS Report R45329, Afghanistan: Legislation in the 115th Congress, by Clayton Thomas. 
+
+
+
+74.
+            
+
+ Estimated Cost to Each U.S. Taxpayer of Each of the Wars in Afghanistan, Iraq and Syria, July 2017. Available at http://www.govexec.com/media/gbc/docs/pdfs_edit/section_1090_fy17_ndaa_cost_of_wars_to_per_taxpayer-july_2017.pdf. 
+
+
+
+75.
+            
+
+ Michael Semple, "The Taliban's Battle Plan," Foreign Affairs, November 28, 2018.
+
+
+
+76.
+            
+
+ Anwar Iqbal, "Afghan Army to Collapse in Six Months Without US Help: Ghani," Dawn, January 18, 2018.
+
+
+
+77.
+            
+
+ Twenty-second report of the Analytical Support and Sanctions Monitoring Team submitted pursuant to resolution 2368 (2017) concerning ISIL (Da'esh), Al-Qaida and associated individuals and entities, United Nations Security Council, July 27, 2018.
+
+
+
+78.
+            
+
+ See, for example Jim Banks, "The Public Deserves an Afghanistan War Progress Report," National Review, October 23, 2018; Seth Jones, "The U.S. Strategy in Afghanistan: The Perils of Withdrawal," Center for Strategic and International Studies, October 26, 2018.
+
+
+
+79.
+            
+
+ Semple, op. cit.
+
+
+
+80.
+            
+
+ Charles Pena, "We Can't Win-and Don't Have To-In Afghanistan." Real Clear Defense, October 9, 2018.
+
+
+
+81.
+            
+
+ U.S. Department of State, "Integrated Country Strategy: Afghanistan," September 27, 2018.
+
+
+
+82.
+            
+
+ A. Trevor Thrall and Erik Goepner, "Another Year of the War in Afghanistan," Texas National Security Review, September 11, 2018. See also Micah Zenko and Amelia Mae Wolfe, "The Myth of the Terrorist Safe Haven," Foreign Policy, January 26, 2015.
+
+
+
+83.
+            
+
+ Erik Goepner, "In Afghanistan, the Withdrawal of U.S. Troops Is Long Overdue," Cato Institute, September 29, 2017.
+
+
+
+84.
+            
+
+ Sayed Salahuddin, "Strongman's loyalists show Taliban isn't only threat in Afghanistan," Washington Post, July 4, 2018.
+
+
+
+85.
+            
+
+ Omar Samad, "A Pivotal Year Ahead for Afghanistan," Atlantic Council, November 27, 2018.
+
+
+
+
+
