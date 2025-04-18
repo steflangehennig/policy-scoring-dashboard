@@ -3,11 +3,15 @@ import re
 from pathlib import Path
 from shutil import copy2
 
+## down from 20148 to 19943; computer stopped me at 21,148 - metadata has 22195
+## downloaded directly from the EveryCRSReport bulk archive, which is already deduplicated and prioritizes the latest version
+## this essentially gets us "final final"
+
 # Paths
 project_dir = Path("data")
 txt_dir = project_dir / "txt"
 metadata_file = project_dir / "reports.csv"
-output_dir = project_dir / "txt_final"
+output_dir = project_dir / "txt-final"
 output_dir.mkdir(exist_ok=True)
 
 # Extract metadata from text files
