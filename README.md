@@ -14,7 +14,7 @@ First cut of using React to understand evidence-based policy making. The tool ta
         ├── txt                 # Sample of .txt CRS reports
         ├── validaton           # Validating model results
             ├── evidence_scores.csv
-        ├── ebp-scoring-GPu.ipynb   # Colab GPU version of scoring model using LLM
+        ├── ebp-scoring-GPU.ipynb   # Colab GPU version of scoring model using LLM
         ├── ebp-scoring.ipynb   # CPU (local) version of scoring model using LLM
     ├── public
         ├── favicon.ico
@@ -32,6 +32,7 @@ First cut of using React to understand evidence-based policy making. The tool ta
         ├── index.js
         ├── reportWebVitals.js
         ├── setupTests.js                 
+    ├── .gitignore 
     ├── package-lock.json                  
     ├── package.json                 
     └── README.md
