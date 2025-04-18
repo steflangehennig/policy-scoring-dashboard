@@ -12,7 +12,7 @@ if not os.path.exists(csv_filename):
         f.write(response.content)
 
 # Parse reports.csv and download HTML files from latestHTML links
-# Finish by converting to .txt files
+# Finish by converting to .txt files for model
 base_url = 'https://www.everycrsreport.com/'
 output_dir = 'txt'
 os.makedirs(output_dir, exist_ok=True)
