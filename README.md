@@ -6,12 +6,16 @@ First cut of using React to understand evidence-based policy making. The tool ta
 ### General File Structure:
 
     .
+    ├── data
+        ├── crs-bulk-pull.py    # Scrape 20k+ CRS reports, convert to .txt
+        ├── crs-meta-merge.py   # For merging in CRS metadata
+        ├── reports.csv         # CRS metadata file
     ├── model
+        ├── txt                 # Sample of .txt CRS reports
         ├── validaton           # Validating model results
             ├── evidence_scores.csv
-        ├── bulk-download.py    # Download CRS reports in bulk
-        ├── crs-extract.py      # Extract text and convert to .txt
-        ├── ebp-scoring.ipynb   # Scoring model using LLM
+        ├── ebp-scoring-GPu.ipynb   # Colab GPU version of scoring model using LLM
+        ├── ebp-scoring.ipynb   # CPU (local) version of scoring model using LLM
     ├── public
         ├── favicon.ico
         ├── index.html
