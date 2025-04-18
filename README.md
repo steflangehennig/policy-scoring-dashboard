@@ -8,7 +8,7 @@ First cut of using React to understand evidence-based policy making. The tool ta
     .
     ├── data
         ├── crs-bulk-pull.py    # Scrape 20k+ CRS reports, convert to .txt
-        ├── crs-meta-merge.py   # For merging in CRS metadata
+        ├── crs-filter-final.py   # For merging in CRS metadata
         ├── reports.csv         # CRS metadata file
     ├── model
         ├── validaton           # Validating model results
