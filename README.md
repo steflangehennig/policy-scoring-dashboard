@@ -11,7 +11,6 @@ First cut of using React to understand evidence-based policy making. The tool ta
         ├── crs-meta-merge.py   # For merging in CRS metadata
         ├── reports.csv         # CRS metadata file
     ├── model
-        ├── txt                 # Sample of .txt CRS reports
         ├── validaton           # Validating model results
             ├── evidence_scores.csv
         ├── ebp-scoring-GPU.ipynb   # Colab GPU version of scoring model using LLM
