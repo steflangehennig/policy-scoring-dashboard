@@ -7,7 +7,7 @@ from shutil import copy2
 ## Downloaded directly from the EveryCRSReport bulk archive, which is already deduplicated and prioritizes the latest version
 ## This essentially gets us "final final" when metadata doesn't link up
 
-# Se paths
+# Set paths
 project_dir = Path("data")
 txt_dir = project_dir / "txt"
 metadata_file = project_dir / "reports.csv"
