@@ -3,11 +3,11 @@ import re
 from pathlib import Path
 from shutil import copy2
 
-## down from 20148 to 19943; computer stopped me at 21,148 - metadata has 22195
-## downloaded directly from the EveryCRSReport bulk archive, which is already deduplicated and prioritizes the latest version
-## this essentially gets us "final final"
+## Down from 20148 to 19943; computer stopped me at 21,148 - metadata has 22195
+## Downloaded directly from the EveryCRSReport bulk archive, which is already deduplicated and prioritizes the latest version
+## This essentially gets us "final final" when metadata doesn't link up
 
-# Paths
+# Se paths
 project_dir = Path("data")
 txt_dir = project_dir / "txt"
 metadata_file = project_dir / "reports.csv"
@@ -35,13 +35,13 @@ print("Extracting metadata from .txt files...")
 txt_files = list(txt_dir.glob("*.txt"))
 metadata = pd.DataFrame([extract_metadata(f) for f in txt_files])
 
-# Load and prep CRS metadata
+# Load/prep CRS metadata
 print("Loading reports.csv...")
 crs_meta = pd.read_csv(metadata_file)
 crs_meta["number"] = crs_meta["number"].astype(str).str.upper().str.strip()
 metadata["report_id"] = metadata["report_id"].astype(str).str.upper().str.strip()
 
-# Merge text metadata with CRS metadata
+# Merge text metadata with CRS metadata .csv file
 merged = metadata.merge(crs_meta, how="left", left_on="report_id", right_on="number")
 
 # Drop duplicates and keep latest publication date per report ID var
@@ -53,7 +53,7 @@ final_versions = (
     .dropna(subset=["latestPubDate"])
 )
 
-# Copy final versions to a new folder
+# Copy final versions to new "final" folder
 print(f"Copying {len(final_versions)} final version .txt files to {output_dir}...")
 for _, row in final_versions.iterrows():
     src = txt_dir / row["filename"]
