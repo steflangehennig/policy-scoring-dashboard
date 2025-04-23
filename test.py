@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
 
-test = pd.array([1, 2, 3, 4, 5], dtype="Int64")
+test = pd.array([2, 4, 6, 8, 10], dtype="Int64")
 
 print(test)
