@@ -3,6 +3,8 @@ import os
 import requests
 from bs4 import BeautifulSoup
 
+## see dev website: https://www.everycrsreport.com/download.html
+
 # Download metadata file from everycrsreport.com
 csv_url = 'https://www.everycrsreport.com/reports.csv'
 csv_filename = 'reports.csv'
