@@ -40,7 +40,7 @@ First cut of using React to understand evidence-based policy making. The tool ta
 # Why Evidence-Based Policymaking Scoring
 This project helps answer a key question in policy evaluation: How evidence-based are the documents that inform or justify public policy? While many policies cite research or reference evaluations, there are few scalable ways to assess whether those references actually reflect evidence-based practices. This project offers a new, automated approach to do this.
 
-I created a conceptual framework that defines what "evidence-based” means in concrete terms. It includes 5 core dimensions:
+I created a conceptual framework that defines what "evidence-based" means in in more formal terms. It includes 5 core dimensions:
 
 1. Use of empirical research
 2. Structured evidence-gathering
@@ -53,7 +53,7 @@ Each policy document is scored from 0 to 3 in each dimension, where 0 means that
 ### LLMs to Evaluate Policy Documents
 Rather than reading and scoring documents manually, I use a large language model (LLM), which is a type of AI that understands and interprets text, to do the first round of evaluation. The LLM reads each document and applies the scoring rubric as if it were a policy analyst, returning both a score and a short explanation for each category.
 
-This saves time, allows for rapid scaling across hundreds of documents, and offers consistent results based on the rubric I designed. Although it is not a replacement for expert review, it acts as an early warning system or classification tool to identify policies that may lack evidence.
+This saves time, allows for rapid scaling across hundreds of documents, and offers consistent results based on the rubric I designed. Although it is not a replacement for expert review, it acts as an early warning system or classification tool to identify policies that may lack evidence. The tool is meant to be used on policy documents, white papers, and reports. 
 
 > This is a minimum viable product currently in iteration. All of the boilerplate React information follows below.
 
