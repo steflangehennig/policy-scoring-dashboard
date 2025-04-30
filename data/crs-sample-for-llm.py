@@ -6,7 +6,7 @@ import csv
 # set paths
 root_dir = "C:/Users/Stefani.Langehennig/OneDrive - University of Denver/Documents/research/du/EBP/my-first-react-app/model/txt-batches/"
 output_dir = os.path.join(root_dir, "sample-for-llm")
-log_file = os.path.join(output_dir, "sampled_files_log.csv")
+log_file = os.path.join(output_dir, "sampled-files-log.csv")
 
 # create output directory
 os.makedirs(output_dir, exist_ok=True)
