@@ -52,7 +52,6 @@ for i in range(1, 11):
 
     print(f"Sampled and copied 50 files from {batch_name}")
 
-
 # write header only if the log file doesn't exist yet
 write_header = not os.path.exists(log_file)
 
@@ -64,3 +63,41 @@ with open(log_file, mode="a", newline="", encoding="utf-8") as f:
     writer.writerows(new_sampled_records)
 
 print(f"Round {current_round} sampling complete. {len(new_sampled_records)} new files added.")
+
+
+#################################################
+# remove reports that have already been scored
+import pandas as pd
+
+sample_dir = "C:/Users/Stefani.Langehennig/OneDrive - University of Denver/Documents/research/du/EBP/my-first-react-app/model/txt-batches/sample-for-llm"
+log_path = os.path.join(sample_dir, "sampled-files-log-batch2.csv")
+scored_path = "C:/Users/Stefani.Langehennig/Downloads/evidence_scores_batch0102.csv"  
+archive_dir = os.path.join(sample_dir, "scored-archive")
+
+os.makedirs(archive_dir, exist_ok=True)
+
+# load scores file
+scored_df = pd.read_csv(scored_path)
+scored_filenames = set(scored_df["filename"].tolist())  
+
+# load log
+sample_df = pd.read_csv(log_path)
+
+# separate scored and unscored files
+scored_mask = sample_df["filename"].isin(scored_filenames)
+scored_files = sample_df[scored_mask]
+unscored_files = sample_df[~scored_mask]
+
+# move scored files to archive
+for filename in scored_files["filename"]:
+    src = os.path.join(sample_dir, filename)
+    dst = os.path.join(archive_dir, filename)
+    if os.path.exists(src):
+        os.rename(src, dst)
+
+# overwrite log with only unscored entries
+unscored_files.to_csv(log_path, index=False)
+
+print(f"Removed {len(scored_files)} scored reports.")
+print(f"{len(unscored_files)} reports remain to be scored.")
+print(f"Scored files moved to: {archive_dir}")
