@@ -57,6 +57,19 @@ This saves time, allows for rapid scaling across hundreds of documents, and offe
 
 > This is a minimum viable product currently in iteration. All of the boilerplate React information follows below.
 
+## Requirements 
+- `safetensors==0.5.3`
+- `sympy==1.14.0`
+- `sentence-transformers==4.1.0`
+- `tiktoken==0.9.0`
+- `tokenizers==0.21.1`
+- `torch==2.7.0`
+- `transformers==4.51.3`
+- `scikit-learn==1.6.1`
+- `huggingface-hub==0.30.2`
+- `numpy==1.36.4`
+- `pandas==2.2.3`
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
