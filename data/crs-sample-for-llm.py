@@ -99,5 +99,4 @@ for filename in scored_files["filename"]:
 unscored_files.to_csv(log_path, index=False)
 
 print(f"Removed {len(scored_files)} scored reports.")
-print(f"{len(unscored_files)} reports remain to be scored.")
 print(f"Scored files moved to: {archive_dir}")
