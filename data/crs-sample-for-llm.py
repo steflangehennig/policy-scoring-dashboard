@@ -100,3 +100,24 @@ unscored_files.to_csv(log_path, index=False)
 
 print(f"Removed {len(scored_files)} scored reports.")
 print(f"Scored files moved to: {archive_dir}")
+
+#########################################################
+# remove dupes from weird batching that happened
+# Load the uploaded CSV file
+file_path = "model/txt-batches/evidence_scores_batch01020304.csv"
+df = pd.read_csv(file_path)
+
+df_cleaned = df.dropna(axis=1, how='all')
+
+# remove duples and keep only 1st occurrence
+df_unique = df_cleaned.drop_duplicates(subset='filename', keep='first')
+rows_removed = len(df) - len(df_unique)
+print(rows_removed) #100
+
+out = "model/txt-batches/scores_nodupes1234.csv"
+df_unique.to_csv(out, index=False)
+
+# see which ones were dupes
+duplicate_filenames = df_cleaned[df_cleaned.duplicated(subset='filename', keep=False)]['filename'].unique()
+duplicates_df = pd.DataFrame(duplicate_filenames, columns=['Duplicate Filenames'])
+print(duplicates_df)
