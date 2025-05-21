@@ -95,12 +95,12 @@ export default function PolicyScoringDashboard() {
     : [];
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-blue-50 to-purple-100 p-8">
+    <div className="min-h-screen p-8 bg-gray-100 text-emerald-900">
       <div className="max-w-4xl mx-auto space-y-8">
         <Card className="shadow-2xl rounded-2xl">
           <CardContent className="p-6">
-            <h1 className="text-2xl font-bold text-gray-800 mb-2">Upload Policy Documents</h1>
-            <p className="text-sm text-gray-600 mb-4">
+            <h1 className="text-2xl font-bold text-emerald-900 mb-2">Upload Policy Documents</h1>
+            <p className="text-sm text-emerald-800 mb-4">
               This tool uses free and open-source AI models to score uploaded policy documents based on evidence-based policy dimensions.
               To maintain performance and fairness, a limit may apply to the number of documents you can upload at one time.
             </p>
@@ -109,7 +109,7 @@ export default function PolicyScoringDashboard() {
               multiple
               accept=".pdf,.docx,.txt"
               onChange={handleFileChange}
-              className="block w-full text-sm text-gray-600 bg-white border border-gray-300 rounded-lg cursor-pointer focus:outline-none mb-4 p-2"
+              className="block w-full text-sm text-emerald-900 bg-white border border-emerald-200 rounded-lg cursor-pointer focus:outline-none mb-4 p-2"
             />
             {error && (
               <div className="flex items-center text-red-600 mb-4">
@@ -119,7 +119,7 @@ export default function PolicyScoringDashboard() {
             <Button
               onClick={handleSubmit}
               disabled={!selectedFiles.length || loading}
-              className="bg-indigo-600 hover:bg-indigo-700 text-white"
+              className="bg-emerald-700 hover:bg-emerald-800 text-white"
             >
               {loading ? <Loader2 className="mr-2 h-4 w-4 animate-spin" /> : <UploadCloud className="mr-2 h-4 w-4" />}
               {loading ? "Scoring..." : "Submit for Scoring"}
@@ -130,11 +130,11 @@ export default function PolicyScoringDashboard() {
         {results.length > 0 && (
           <Card className="shadow-2xl rounded-2xl">
             <CardContent className="p-6">
-              <h2 className="text-xl font-semibold text-gray-700 mb-4">Evidence-Based Policy Scores</h2>
+              <h2 className="text-xl font-semibold text-emerald-900 mb-4">Evidence-Based Policy Scores</h2>
               <div className="overflow-x-auto mb-6">
-                <table className="min-w-full table-auto text-left border border-gray-300 bg-white">
+                <table className="min-w-full table-auto text-left border border-emerald-200 bg-white">
                   <thead>
-                    <tr className="bg-indigo-100">
+                    <tr className="bg-emerald-100">
                       <th className="px-4 py-2">File</th>
                       <th className="px-4 py-2">Clarity</th>
                       <th className="px-4 py-2">Rationale</th>
@@ -146,15 +146,15 @@ export default function PolicyScoringDashboard() {
                   </thead>
                   <tbody>
                     {results.map(({ fileName, scores }) => (
-                      <tr key={fileName} className="border-t border-gray-300">
-                        <td className="px-4 py-2 font-medium text-gray-700">{fileName}</td>
+                      <tr key={fileName} className="border-t border-emerald-200">
+                        <td className="px-4 py-2 font-medium text-emerald-900">{fileName}</td>
                         <td className="px-4 py-2">{scores.Clarity}</td>
                         <td className="px-4 py-2">{scores.Rationale}</td>
                         <td className="px-4 py-2">{scores.Evidence}</td>
                         <td className="px-4 py-2">{scores.Alternatives}</td>
                         <td className="px-4 py-2">{scores.Implementation}</td>
                         <td className="px-4 py-2">
-                          <Button onClick={() => setSelectedRadar({ fileName, scores })} className="text-xs bg-blue-600 text-white hover:bg-blue-700">
+                          <Button onClick={() => setSelectedRadar({ fileName, scores })} className="text-xs bg-emerald-600 text-white hover:bg-emerald-700">
                             Radar
                           </Button>
                         </td>
@@ -165,20 +165,20 @@ export default function PolicyScoringDashboard() {
               </div>
               {selectedRadar && (
                 <div>
-                  <h3 className="text-lg font-semibold text-gray-800 mb-2">Radar Chart: {selectedRadar.fileName}</h3>
+                  <h3 className="text-lg font-semibold text-emerald-900 mb-2">Radar Chart: {selectedRadar.fileName}</h3>
                   <div ref={chartRef} className="h-80 bg-white rounded-xl p-4">
                     <ResponsiveContainer width="100%" height="100%">
                       <RadarChart cx="50%" cy="50%" outerRadius="70%" data={chartData}>
                         <PolarGrid />
                         <PolarAngleAxis dataKey="dimension" />
                         <PolarRadiusAxis domain={[0, 5]} tickCount={6} />
-                        <Radar name="Score" dataKey="score" stroke="#6366F1" fill="#6366F1" fillOpacity={0.6} />
+                        <Radar name="Score" dataKey="score" stroke="#047857" fill="#047857" fillOpacity={0.6} />
                       </RadarChart>
                     </ResponsiveContainer>
                   </div>
                 </div>
               )}
-              <Button onClick={handleExportCSV} className="mt-4 bg-green-600 hover:bg-green-700 text-white">
+              <Button onClick={handleExportCSV} className="mt-4 bg-emerald-700 hover:bg-emerald-800 text-white">
                 <Download className="mr-2 h-4 w-4" /> Download Results as CSV
               </Button>
             </CardContent>
