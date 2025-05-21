@@ -28,7 +28,7 @@ const ContactPage = () => (
         This project is maintained by Dr. Stefani Langehennig. You can view the code on GitHub or fork it for your own research use:
       </p>
       <a
-        href="https://github.com/YOUR_USERNAME/YOUR_REPO"
+        href="https://github.com/steflangehennig/first-react"
         className="text-indigo-600 underline hover:text-indigo-800"
         target="_blank"
         rel="noopener noreferrer"
