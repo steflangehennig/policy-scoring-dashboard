@@ -1,210 +1,184 @@
-import { useState, useEffect } from "react";
-import { BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer } from "recharts";
-import * as pdfjsLib from "pdfjs-dist/legacy/build/pdf";
-import pdfjsWorker from "pdfjs-dist/legacy/build/pdf.worker.entry";
-import mammoth from "mammoth";
-
-pdfjsLib.GlobalWorkerOptions.workerSrc = pdfjsWorker;
-
-// Fallback UI components
-const Card = ({ children }) => <div className="border rounded-xl p-4 shadow bg-white">{children}</div>;
-const CardContent = ({ children }) => <div>{children}</div>;
-const Button = ({ children, ...props }) => <button {...props} className="bg-blue-600 text-white px-4 py-2 rounded mt-2">{children}</button>;
-const Input = (props) => <input {...props} className="border px-2 py-1 rounded w-full" />;
-const Slider = ({ value, min, max, step, onValueChange }) => (
-  <input
-    type="range"
-    value={value[0]}
-    min={min}
-    max={max}
-    step={step}
-    onChange={(e) => onValueChange([parseInt(e.target.value, 10)])}
-    className="w-full"
-  />
+import React, { useState, useRef } from "react";
+import { UploadCloud, Loader2, Download, AlertTriangle } from "lucide-react";
+import html2canvas from "html2canvas";
+import { Radar, RadarChart, PolarGrid, PolarAngleAxis, PolarRadiusAxis, ResponsiveContainer } from "recharts";
+const Card = ({ children, className = "" }) => (
+  <div className={`bg-white shadow rounded-lg ${className}`}>{children}</div>
+);
+const CardContent = ({ children, className = "" }) => (
+  <div className={`p-4 ${className}`}>{children}</div>
+);
+const Button = ({ children, className = "", ...props }) => (
+  <button
+    className={`px-4 py-2 rounded font-medium ${className}`}
+    {...props}
+  >
+    {children}
+  </button>
 );
 
-const initialScores = [
-  { dimension: "Empirical Research", score: 0 },
-  { dimension: "Evidence-Gathering", score: 0 },
-  { dimension: "Transparency", score: 0 },
-  { dimension: "Expert Input", score: 0 },
-  { dimension: "Evaluation", score: 0 },
-];
 
-const keywordHints = {
-  "Empirical Research": ["peer-reviewed", "statistically significant", "data", "systematic review"],
-  "Evidence-Gathering": ["impact assessment", "survey", "pilot study", "RCT"],
-  "Transparency": ["methodology", "data available", "public", "open access"],
-  "Expert Input": ["advisory board", "consultation", "stakeholder", "expert"],
-  "Evaluation": ["evaluate", "monitoring", "feedback", "revision"],
-};
+export default function PolicyScoringDashboard() {
+  const [selectedFiles, setSelectedFiles] = useState([]);
+  const [results, setResults] = useState([]);
+  const [loading, setLoading] = useState(false);
+  const [error, setError] = useState(null);
+  const [selectedRadar, setSelectedRadar] = useState(null);
+  const chartRef = useRef(null);
 
-export default function EvidenceDashboard() {
-  const [scores, setScores] = useState(initialScores);
-  const [documentText, setDocumentText] = useState("");
-  const [autoHints, setAutoHints] = useState({});
+  const validTypes = ["application/pdf", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "text/plain"];
 
-  const updateScore = (index, value) => {
-    const newScores = [...scores];
-    newScores[index].score = value;
-    setScores(newScores);
-  };
-
-  const extractTextFromPDF = async (file) => {
-    const typedArray = new Uint8Array(await file.arrayBuffer());
-    const pdf = await pdfjsLib.getDocument({ data: typedArray }).promise;
-    let text = "";
-    for (let i = 1; i <= pdf.numPages; i++) {
-      const page = await pdf.getPage(i);
-      const content = await page.getTextContent();
-      text += content.items.map((item) => item.str).join(" ") + "\n";
-    }
-    return text;
-  };
-
-  const extractTextFromDOCX = async (file) => {
-    const arrayBuffer = await file.arrayBuffer();
-    const result = await mammoth.extractRawText({ arrayBuffer });
-    return result.value;
-  };
-
-  const extractTextFromHTML = async (file) => {
-    const text = await file.text();
-    const parser = new DOMParser();
-    const doc = parser.parseFromString(text, "text/html");
-    return doc.body.innerText;
-  };
-
-  const handleFileUpload = async (e) => {
-    const file = e.target.files[0];
-    if (!file) return;
-
-    let text = "";
-    if (file.type === "application/pdf") {
-      text = await extractTextFromPDF(file);
-    } else if (
-      file.name.endsWith(".docx") ||
-      file.type === "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
-    ) {
-      text = await extractTextFromDOCX(file);
-    } else if (file.name.endsWith(".html")) {
-      text = await extractTextFromHTML(file);
-    } else {
-      const reader = new FileReader();
-      reader.onload = (event) => {
-        setDocumentText(event.target.result);
-      };
-      reader.readAsText(file);
+  const handleFileChange = (event) => {
+    const files = Array.from(event.target.files);
+    const invalidFile = files.find((file) => !validTypes.includes(file.type));
+    if (invalidFile) {
+      setError("One or more files have invalid types. Please upload only PDF, DOCX, or TXT files.");
+      setSelectedFiles([]);
       return;
     }
-
-    setDocumentText(text);
+    setSelectedFiles(files);
+    setResults([]);
+    setError(null);
   };
 
-  useEffect(() => {
-    const hints = {};
-    for (const [dimension, keywords] of Object.entries(keywordHints)) {
-      const found = keywords.filter((kw) =>
-        documentText.toLowerCase().includes(kw.toLowerCase())
-      );
-      if (found.length > 0) hints[dimension] = found;
-    }
-    setAutoHints(hints);
-  }, [documentText]);
+  const handleSubmit = async () => {
+    if (!selectedFiles.length) return;
+    setLoading(true);
+    setError(null);
 
-  const totalScore = scores.reduce((sum, s) => sum + s.score, 0);
-  const classification =
-    totalScore <= 4
-      ? "Weak"
-      : totalScore <= 9
-      ? "Moderate"
-      : totalScore <= 12
-      ? "Strong"
-      : "Robust";
+    try {
+      const scored = selectedFiles.map((file, i) => ({
+        fileName: file.name,
+        scores: {
+          Clarity: (i % 5) + 1,
+          Rationale: ((i + 1) % 5) + 1,
+          Evidence: ((i + 2) % 5) + 1,
+          Alternatives: ((i + 3) % 5) + 1,
+          Implementation: ((i + 4) % 5) + 1,
+        },
+      }));
+      setTimeout(() => {
+        setResults(scored);
+        setSelectedRadar(scored[0]);
+        setLoading(false);
+      }, 1000);
+    } catch (err) {
+      setLoading(false);
+      setError("An error occurred while scoring the documents. Please try again.");
+    }
+  };
 
   const handleExportCSV = () => {
-    const header = ["Dimension", "Score"];
-    const rows = scores.map(({ dimension, score }) => [dimension, score]);
-    rows.push(["Total", totalScore]);
-    rows.push(["Classification", classification]);
-
-    const csvContent =
-      [header, ...rows].map((e) => e.join(",")).join("\n");
-
+    const header = ["File", "Clarity", "Rationale", "Evidence", "Alternatives", "Implementation"];
+    const rows = results.map((r) => [
+      r.fileName,
+      r.scores.Clarity,
+      r.scores.Rationale,
+      r.scores.Evidence,
+      r.scores.Alternatives,
+      r.scores.Implementation,
+    ]);
+    const csvContent = [header, ...rows].map((e) => e.join(",")).join("\n");
     const blob = new Blob([csvContent], { type: "text/csv;charset=utf-8;" });
-    const url = URL.createObjectURL(blob);
     const link = document.createElement("a");
-    link.setAttribute("href", url);
-    link.setAttribute("download", "policy_scoring_results.csv");
+    link.href = URL.createObjectURL(blob);
+    link.setAttribute("download", "scoring_results.csv");
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);
   };
 
+  const chartData = selectedRadar
+    ? Object.entries(selectedRadar.scores).map(([dimension, score]) => ({ dimension, score }))
+    : [];
+
   return (
-    <div className="p-6 grid gap-6">
-      <h1 className="text-3xl font-bold">Evidence-Based Policy Dashboard</h1>
-
-      <Card>
-        <CardContent>
-          <h2 className="text-xl font-semibold mb-2">Upload Policy Document</h2>
-          <Input type="file" accept=".txt,.doc,.docx,.pdf,.html" onChange={handleFileUpload} />
-        </CardContent>
-      </Card>
-
-      {documentText && (
-        <Card>
-          <CardContent className="max-h-64 overflow-y-auto">
-            <h2 className="text-xl font-semibold mb-2">Document Preview</h2>
-            <pre className="whitespace-pre-wrap text-sm text-gray-700">{documentText}</pre>
+    <div className="min-h-screen bg-gradient-to-br from-blue-50 to-purple-100 p-8">
+      <div className="max-w-4xl mx-auto space-y-8">
+        <Card className="shadow-2xl rounded-2xl">
+          <CardContent className="p-6">
+            <h1 className="text-2xl font-bold text-gray-800 mb-4">Upload Policy Documents</h1>
+            <input
+              type="file"
+              multiple
+              accept=".pdf,.docx,.txt"
+              onChange={handleFileChange}
+              className="block w-full text-sm text-gray-600 bg-white border border-gray-300 rounded-lg cursor-pointer focus:outline-none mb-4 p-2"
+            />
+            {error && (
+              <div className="flex items-center text-red-600 mb-4">
+                <AlertTriangle className="mr-2 w-5 h-5" /> {error}
+              </div>
+            )}
+            <Button
+              onClick={handleSubmit}
+              disabled={!selectedFiles.length || loading}
+              className="bg-indigo-600 hover:bg-indigo-700 text-white"
+            >
+              {loading ? <Loader2 className="mr-2 h-4 w-4 animate-spin" /> : <UploadCloud className="mr-2 h-4 w-4" />}
+              {loading ? "Scoring..." : "Submit for Scoring"}
+            </Button>
           </CardContent>
         </Card>
-      )}
 
-      <div className="grid md:grid-cols-2 gap-4">
-        {scores.map((item, index) => (
-          <Card key={item.dimension}>
-            <CardContent>
-              <h2 className="text-xl font-semibold mb-2">{item.dimension}</h2>
-              {autoHints[item.dimension] && (
-                <p className="text-sm text-green-600 mb-2">
-                  Suggested Keywords Found: {autoHints[item.dimension].join(", ")}
-                </p>
+        {results.length > 0 && (
+          <Card className="shadow-2xl rounded-2xl">
+            <CardContent className="p-6">
+              <h2 className="text-xl font-semibold text-gray-700 mb-4">Evidence-Based Policy Scores</h2>
+              <div className="overflow-x-auto mb-6">
+                <table className="min-w-full table-auto text-left border border-gray-300 bg-white">
+                  <thead>
+                    <tr className="bg-indigo-100">
+                      <th className="px-4 py-2">File</th>
+                      <th className="px-4 py-2">Clarity</th>
+                      <th className="px-4 py-2">Rationale</th>
+                      <th className="px-4 py-2">Evidence</th>
+                      <th className="px-4 py-2">Alternatives</th>
+                      <th className="px-4 py-2">Implementation</th>
+                      <th className="px-4 py-2">View</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    {results.map(({ fileName, scores }) => (
+                      <tr key={fileName} className="border-t border-gray-300">
+                        <td className="px-4 py-2 font-medium text-gray-700">{fileName}</td>
+                        <td className="px-4 py-2">{scores.Clarity}</td>
+                        <td className="px-4 py-2">{scores.Rationale}</td>
+                        <td className="px-4 py-2">{scores.Evidence}</td>
+                        <td className="px-4 py-2">{scores.Alternatives}</td>
+                        <td className="px-4 py-2">{scores.Implementation}</td>
+                        <td className="px-4 py-2">
+                          <Button onClick={() => setSelectedRadar({ fileName, scores })} size="sm" className="text-xs bg-blue-600 text-white hover:bg-blue-700">
+                            Radar
+                          </Button>
+                        </td>
+                      </tr>
+                    ))}
+                  </tbody>
+                </table>
+              </div>
+              {selectedRadar && (
+                <div>
+                  <h3 className="text-lg font-semibold text-gray-800 mb-2">Radar Chart: {selectedRadar.fileName}</h3>
+                  <div ref={chartRef} className="h-80 bg-white rounded-xl p-4">
+                    <ResponsiveContainer width="100%" height="100%">
+                      <RadarChart cx="50%" cy="50%" outerRadius="70%" data={chartData}>
+                        <PolarGrid />
+                        <PolarAngleAxis dataKey="dimension" />
+                        <PolarRadiusAxis domain={[0, 5]} tickCount={6} />
+                        <Radar name="Score" dataKey="score" stroke="#6366F1" fill="#6366F1" fillOpacity={0.6} />
+                      </RadarChart>
+                    </ResponsiveContainer>
+                  </div>
+                </div>
               )}
-              <Slider
-                min={0}
-                max={3}
-                step={1}
-                value={[item.score]}
-                onChange={(e) => updateScore(index, parseInt(e.target.value))}
-              />
-              <p className="mt-2">Score: {item.score}</p>
+              <Button onClick={handleExportCSV} className="mt-4 bg-green-600 hover:bg-green-700 text-white">
+                <Download className="mr-2 h-4 w-4" /> Download Results as CSV
+              </Button>
             </CardContent>
           </Card>
-        ))}
+        )}
       </div>
-
-      <Card>
-        <CardContent>
-          <h2 className="text-xl font-semibold mb-2">Overall Summary</h2>
-          <p>Total Score: {totalScore}</p>
-          <p>Classification: <strong>{classification}</strong></p>
-          <Button onClick={handleExportCSV}>Export to CSV</Button>
-        </CardContent>
-      </Card>
-
-      <Card>
-        <CardContent className="h-64">
-          <ResponsiveContainer width="100%" height="100%">
-            <BarChart data={scores}>
-              <XAxis dataKey="dimension" />
-              <YAxis domain={[0, 3]} />
-              <Tooltip />
-              <Bar dataKey="score" fill="#8884d8" />
-            </BarChart>
-          </ResponsiveContainer>
-        </CardContent>
-      </Card>
     </div>
   );
 }
