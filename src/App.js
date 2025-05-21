@@ -2,21 +2,23 @@ import React, { useState, useRef } from "react";
 import { UploadCloud, Loader2, Download, AlertTriangle } from "lucide-react";
 import html2canvas from "html2canvas";
 import { Radar, RadarChart, PolarGrid, PolarAngleAxis, PolarRadiusAxis, ResponsiveContainer } from "recharts";
+
 const Card = ({ children, className = "" }) => (
   <div className={`bg-white shadow rounded-lg ${className}`}>{children}</div>
 );
+
 const CardContent = ({ children, className = "" }) => (
   <div className={`p-4 ${className}`}>{children}</div>
 );
+
 const Button = ({ children, className = "", ...props }) => (
   <button
-    className={`px-4 py-2 rounded font-medium ${className}`}
+    className={`px-4 py-2 rounded font-medium transition-colors ${className}`}
     {...props}
   >
     {children}
   </button>
 );
-
 
 export default function PolicyScoringDashboard() {
   const [selectedFiles, setSelectedFiles] = useState([]);
@@ -97,7 +99,11 @@ export default function PolicyScoringDashboard() {
       <div className="max-w-4xl mx-auto space-y-8">
         <Card className="shadow-2xl rounded-2xl">
           <CardContent className="p-6">
-            <h1 className="text-2xl font-bold text-gray-800 mb-4">Upload Policy Documents</h1>
+            <h1 className="text-2xl font-bold text-gray-800 mb-2">Upload Policy Documents</h1>
+            <p className="text-sm text-gray-600 mb-4">
+              This tool uses free and open-source AI models to score uploaded policy documents based on evidence-based policy dimensions.
+              To maintain performance and fairness, a limit may apply to the number of documents you can upload at one time.
+            </p>
             <input
               type="file"
               multiple
@@ -148,7 +154,7 @@ export default function PolicyScoringDashboard() {
                         <td className="px-4 py-2">{scores.Alternatives}</td>
                         <td className="px-4 py-2">{scores.Implementation}</td>
                         <td className="px-4 py-2">
-                          <Button onClick={() => setSelectedRadar({ fileName, scores })} size="sm" className="text-xs bg-blue-600 text-white hover:bg-blue-700">
+                          <Button onClick={() => setSelectedRadar({ fileName, scores })} className="text-xs bg-blue-600 text-white hover:bg-blue-700">
                             Radar
                           </Button>
                         </td>
