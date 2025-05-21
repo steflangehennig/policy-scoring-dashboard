@@ -1,17 +1,12 @@
 import React from "react";
-import {
-  BrowserRouter as Router,
-  Routes,
-  Route,
-  Link
-} from "react-router-dom";
+import { Routes, Route, Link } from "react-router-dom";
 import PolicyScoringDashboard from "./PolicyScoringDashboard";
 
 const AboutPage = () => (
-  <div className="min-h-screen p-8 bg-gradient-to-br from-blue-50 to-purple-100">
+  <div className="min-h-screen p-8 bg-gray-100 text-emerald-900">
     <div className="max-w-3xl mx-auto space-y-4">
-      <h1 className="text-2xl font-bold text-gray-800">About This Tool</h1>
-      <p className="text-gray-700">
+      <h1 className="text-2xl font-bold">About This Tool</h1>
+      <p>
         This dashboard scores policy documents using a rubric grounded in evidence-based policy research.
         Documents are evaluated across five dimensions: Clarity, Rationale, Evidence, Alternatives, and Implementation.
         Scores are generated using free open-source AI models and visualized to help users assess policy quality.
@@ -21,15 +16,15 @@ const AboutPage = () => (
 );
 
 const ContactPage = () => (
-  <div className="min-h-screen p-8 bg-gradient-to-br from-blue-50 to-purple-100">
+  <div className="min-h-screen p-8 bg-gray-100 text-emerald-900">
     <div className="max-w-3xl mx-auto space-y-4">
-      <h1 className="text-2xl font-bold text-gray-800">Contact</h1>
-      <p className="text-gray-700">
+      <h1 className="text-2xl font-bold">Contact</h1>
+      <p>
         This project is maintained by Dr. Stefani Langehennig. You can view the code on GitHub or fork it for your own research use:
       </p>
       <a
         href="https://github.com/steflangehennig/first-react"
-        className="text-indigo-600 underline hover:text-indigo-800"
+        className="text-emerald-700 underline hover:text-emerald-900"
         target="_blank"
         rel="noopener noreferrer"
       >
@@ -40,24 +35,31 @@ const ContactPage = () => (
 );
 
 const Navigation = () => (
-  <nav className="bg-white shadow py-4 px-8 mb-6">
-    <ul className="flex space-x-6 text-gray-700 font-medium">
-      <li><Link to="/">Upload</Link></li>
-      <li><Link to="/about">About</Link></li>
-      <li><Link to="/contact">Contact</Link></li>
+  <nav className="bg-gray-50 text-emerald-900 shadow py-4 px-8 mb-6 border-b border-emerald-200">
+    <ul className="flex space-x-6 font-medium">
+      <li><Link to="/" className="hover:text-emerald-700">Upload</Link></li>
+      <li><Link to="/about" className="hover:text-emerald-700">About</Link></li>
+      <li><Link to="/contact" className="hover:text-emerald-700">Contact</Link></li>
     </ul>
   </nav>
 );
 
 export default function App() {
   return (
-    <Router>
+    <div className="min-h-screen bg-gray-100 text-emerald-900">
       <Navigation />
       <Routes>
-        <Route path="/" element={<PolicyScoringDashboard />} />
+        <Route
+          path="/"
+          element={
+            <div className="max-w-4xl mx-auto p-6">
+              <PolicyScoringDashboard />
+            </div>
+          }
+        />
         <Route path="/about" element={<AboutPage />} />
         <Route path="/contact" element={<ContactPage />} />
       </Routes>
-    </Router>
+    </div>
   );
 }
