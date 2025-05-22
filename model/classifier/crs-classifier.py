@@ -65,7 +65,7 @@ y_pred = clf.predict(X_test)
 print("Classification Report:")
 print(classification_report(y_test, y_pred))
 
-# save model and embeddings
+# save model and embeddings will use these to embed all 20k CRS reports and then predict dimensions for them
 joblib.dump(embedder, "crs_embedder.pkl")
 joblib.dump(rubric_columns, "crs_rubric_columns.pkl")
 print("Saved model and embedder.")
