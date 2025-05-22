@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/steflangehennig/first-react/static/css/main.9d829a9a.css",
-    "main.js": "/steflangehennig/first-react/static/js/main.802625cf.js",
-    "index.html": "/steflangehennig/first-react/index.html",
-    "main.9d829a9a.css.map": "/steflangehennig/first-react/static/css/main.9d829a9a.css.map",
-    "main.802625cf.js.map": "/steflangehennig/first-react/static/js/main.802625cf.js.map"
+    "main.css": "/first-react/static/css/main.9d829a9a.css",
+    "main.js": "/first-react/static/js/main.802625cf.js",
+    "index.html": "/first-react/index.html",
+    "main.9d829a9a.css.map": "/first-react/static/css/main.9d829a9a.css.map",
+    "main.802625cf.js.map": "/first-react/static/js/main.802625cf.js.map"
   },
   "entrypoints": [
     "static/css/main.9d829a9a.css",
