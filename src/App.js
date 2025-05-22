@@ -48,18 +48,27 @@ export default function App() {
   return (
     <div className="min-h-screen bg-gray-100 text-emerald-900">
       <Navigation />
-      <Routes>
-        <Route
-          path="/"
-          element={
-            <div className="max-w-4xl mx-auto p-6">
-              <PolicyScoringDashboard />
-            </div>
-          }
-        />
-        <Route path="/about" element={<AboutPage />} />
-        <Route path="/contact" element={<ContactPage />} />
-      </Routes>
+<Routes>
+  <Route
+    path="/"
+    element={
+      <div className="max-w-4xl mx-auto p-6">
+        <PolicyScoringDashboard />
+      </div>
+    }
+  />
+  <Route path="/about" element={<AboutPage />} />
+  <Route path="/contact" element={<ContactPage />} />
+  <Route
+    path="*"
+    element={
+      <div className="max-w-4xl mx-auto p-6">
+        <PolicyScoringDashboard />
+      </div>
+    }
+  />
+</Routes>
+
     </div>
   );
 }
