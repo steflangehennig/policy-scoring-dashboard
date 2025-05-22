@@ -2,7 +2,7 @@
   "name": "my-first-react-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://steflangehennig.github.io/first-react/",
+  "homepage": "https://steflangehennig.github.io/policy-scoring-dashboard/",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
