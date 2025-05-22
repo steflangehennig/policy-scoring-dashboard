@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/first-react/static/css/main.9d829a9a.css",
-    "main.js": "/first-react/static/js/main.ef18134a.js",
-    "index.html": "/first-react/index.html",
-    "main.9d829a9a.css.map": "/first-react/static/css/main.9d829a9a.css.map",
-    "main.ef18134a.js.map": "/first-react/static/js/main.ef18134a.js.map"
+    "main.css": "/policy-scoring-dashboard/static/css/main.9d829a9a.css",
+    "main.js": "/policy-scoring-dashboard/static/js/main.ef18134a.js",
+    "index.html": "/policy-scoring-dashboard/index.html",
+    "main.9d829a9a.css.map": "/policy-scoring-dashboard/static/css/main.9d829a9a.css.map",
+    "main.ef18134a.js.map": "/policy-scoring-dashboard/static/js/main.ef18134a.js.map"
   },
   "entrypoints": [
     "static/css/main.9d829a9a.css",
