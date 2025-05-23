@@ -103,7 +103,7 @@ export default function PolicyScoringDashboard() {
             <p className="text-sm text-emerald-800 mb-4">
               This tool uses free and open-source AI models to score uploaded policy documents based on evidence-based policy dimensions.
               To maintain performance and fairness, a limit may apply to the number of documents you can upload at one time. 
-              <strong>Note:</strong> The current app only renders the front end and not the back end (e.g., actual scoring model. This is coming soon.)
+              <strong> Note:</strong> The current app only renders the front end and not the back end (e.g., actual scoring model. This is coming soon.)
             </p>
             <input
               type="file"
