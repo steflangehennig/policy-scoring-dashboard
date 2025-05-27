@@ -5,3 +5,5 @@ unstructured
 python-multipart
 torch
 accelerate
+requests
+pydantic

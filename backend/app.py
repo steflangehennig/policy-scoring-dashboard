@@ -125,3 +125,8 @@ async def score_document(file: UploadFile = File(...)):
 
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Error scoring document: {str(e)}")
+
+if __name__ != "__main__":
+    import sys
+    sys.modules["__main__"].app = app
+
