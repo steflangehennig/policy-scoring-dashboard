@@ -3,8 +3,7 @@ from fastapi.responses import JSONResponse
 from fastapi.middleware.cors import CORSMiddleware
 from starlette.status import HTTP_429_TOO_MANY_REQUESTS
 from unstructured.partition.auto import partition
-from transformers import AutoModelForCausalLM, AutoTokenizer, pipeline
-import torch
+import requests
 import json
 import re
 import time
@@ -23,14 +22,11 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# Load model with Hugging Face token from environment
+# Hugging Face Inference API setup
 model_id = "mistralai/Mistral-7B-Instruct-v0.2"
+HF_API_URL = f"https://api-inference.huggingface.co/models/{model_id}"
 hf_token = os.getenv("HF_TOKEN")
-
-# CPU-safe fallback loading (no device_map or float16)
-tokenizer = AutoTokenizer.from_pretrained(model_id, token=hf_token)
-model = AutoModelForCausalLM.from_pretrained(model_id, token=hf_token)
-llm = pipeline("text-generation", model=model, tokenizer=tokenizer, max_new_tokens=2048)
+headers = {"Authorization": f"Bearer {hf_token}"}
 
 # Rate limiting
 RATE_LIMIT = 5  # max requests
@@ -114,8 +110,13 @@ async def score_document(file: UploadFile = File(...)):
             + "Do not reuse examples or include placeholder text like '...'. Be specific, original, and concise in your justifications."
         )
 
-        response = llm(full_prompt)[0]["generated_text"]
-        parsed = extract_first_json(response)
+        payload = {"inputs": full_prompt}
+        res = requests.post(HF_API_URL, headers=headers, json=payload)
+        if res.status_code != 200:
+            raise HTTPException(status_code=500, detail=f"Model error: {res.text}")
+
+        response_text = res.json()[0]["generated_text"]
+        parsed = extract_first_json(response_text)
 
         if not parsed:
             raise HTTPException(status_code=500, detail="Model response did not include valid JSON.")
