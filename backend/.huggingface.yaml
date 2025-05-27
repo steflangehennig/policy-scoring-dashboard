@@ -1,2 +1,4 @@
-sdk: spaces
-app_file: app.py
+# .huggingface.yaml
+title: Policy Scoring API
+sdk: docker
+app_file: Dockerfile
