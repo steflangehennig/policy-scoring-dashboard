@@ -3,21 +3,6 @@ import { Routes, Route, Link } from "react-router-dom";
 import PolicyScoringDashboard from "./PolicyScoringDashboard";
 import { FaGithub } from 'react-icons/fa';
 
-function App() {
-  return (
-    <div>
-      <a
-        href="https://github.com/steflangehennig/policy-scoring-dashboard"
-        target="_blank"
-        rel="noopener noreferrer"
-        title="View source on GitHub"
-      >
-        <FaGithub size={32} />
-      </a>
-    </div>
-  );
-}
-
 const AboutPage = () => (
   <div className="min-h-screen p-8 bg-gray-100 text-emerald-900">
     <div className="max-w-3xl mx-auto space-y-4">
