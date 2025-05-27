@@ -137,11 +137,11 @@ export default function PolicyScoringDashboard() {
                   <thead>
                     <tr className="bg-emerald-100">
                       <th className="px-4 py-2">File</th>
-                      <th className="px-4 py-2">Clarity</th>
-                      <th className="px-4 py-2">Rationale</th>
-                      <th className="px-4 py-2">Evidence</th>
-                      <th className="px-4 py-2">Alternatives</th>
-                      <th className="px-4 py-2">Implementation</th>
+                      <th className="px-4 py-2">Empirical Research</th>
+                      <th className="px-4 py-2">Formal Evidence Gathering</th>
+                      <th className="px-4 py-2">Transparency & Accessibility</th>
+                      <th className="px-4 py-2">Expert & Stakeholder Input</th>
+                      <th className="px-4 py-2">Evalutation & Iteration</th>
                       <th className="px-4 py-2">View</th>
                     </tr>
                   </thead>
