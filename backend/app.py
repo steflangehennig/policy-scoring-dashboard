@@ -31,7 +31,7 @@ tokenizer = AutoTokenizer.from_pretrained(model_id, token=hf_token)
 model = AutoModelForCausalLM.from_pretrained(
     model_id,
     device_map="auto",
-    load_in_4bit=True,
+    torch_dtype=torch.float16, 
     token=hf_token
 )
 llm = pipeline("text-generation", model=model, tokenizer=tokenizer, max_new_tokens=2048)
