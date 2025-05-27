@@ -30,9 +30,7 @@ hf_token = os.getenv("HF_TOKEN")
 tokenizer = AutoTokenizer.from_pretrained(model_id, token=hf_token)
 model = AutoModelForCausalLM.from_pretrained(
     model_id,
-    device_map="auto",
-    torch_dtype=torch.float16, 
-    token=hf_token
+    token=hf_token  # no device_map, no dtype
 )
 llm = pipeline("text-generation", model=model, tokenizer=tokenizer, max_new_tokens=2048)
 
