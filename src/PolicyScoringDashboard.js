@@ -149,11 +149,11 @@ export default function PolicyScoringDashboard() {
                     {results.map(({ fileName, scores }) => (
                       <tr key={fileName} className="border-t border-emerald-200">
                         <td className="px-4 py-2 font-medium text-emerald-900">{fileName}</td>
-                        <td className="px-4 py-2">{scores.Clarity}</td>
-                        <td className="px-4 py-2">{scores.Rationale}</td>
-                        <td className="px-4 py-2">{scores.Evidence}</td>
-                        <td className="px-4 py-2">{scores.Alternatives}</td>
-                        <td className="px-4 py-2">{scores.Implementation}</td>
+                        <td className="px-4 py-2">{scores.EmpiricalResearch}</td>
+                        <td className="px-4 py-2">{scores.FormalEvidenceGathering}</td>
+                        <td className="px-4 py-2">{scores.TransparencyAccessibility}</td>
+                        <td className="px-4 py-2">{scores.ExpertStakeholderInput}</td>
+                        <td className="px-4 py-2">{scores.EvaluationIteration}</td>
                         <td className="px-4 py-2">
                           <Button onClick={() => setSelectedRadar({ fileName, scores })} className="text-xs bg-emerald-600 text-white hover:bg-emerald-700">
                             Radar
