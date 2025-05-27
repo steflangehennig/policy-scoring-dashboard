@@ -4,3 +4,4 @@ transformers
 unstructured
 python-multipart
 torch
+accelerate
