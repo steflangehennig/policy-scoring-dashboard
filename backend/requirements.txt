@@ -3,3 +3,4 @@ uvicorn
 transformers
 unstructured
 python-multipart
+torch
