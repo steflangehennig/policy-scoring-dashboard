@@ -27,11 +27,9 @@ app.add_middleware(
 model_id = "mistralai/Mistral-7B-Instruct-v0.2"
 hf_token = os.getenv("HF_TOKEN")
 
+# CPU-safe fallback loading (no device_map or float16)
 tokenizer = AutoTokenizer.from_pretrained(model_id, token=hf_token)
-model = AutoModelForCausalLM.from_pretrained(
-    model_id,
-    token=hf_token  # no device_map, no dtype
-)
+model = AutoModelForCausalLM.from_pretrained(model_id, token=hf_token)
 llm = pipeline("text-generation", model=model, tokenizer=tokenizer, max_new_tokens=2048)
 
 # Rate limiting
