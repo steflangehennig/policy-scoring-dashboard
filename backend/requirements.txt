@@ -1,9 +1,11 @@
 fastapi
 uvicorn
 transformers
-unstructured
 python-multipart
 torch
 accelerate
 requests
 pydantic
+pdfplumber
+python-docx
+spacy
