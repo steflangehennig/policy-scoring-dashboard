@@ -128,8 +128,9 @@ export default function PolicyScoringDashboard() {
               of your results. 
             </p>
             <p className="text-sm text-emerald-800 mb-4">
-              To maintain performance and fairness using the free features of FastAPI and Hugging Face, a limit applies to the number of documents 
-              you can upload at one time (5 documents max every 30 minutes, and 1 document at a time). Currently, the scoring model accepts .docx and .txt files.
+              This is a MVP version of the app. To maintain performance and fairness using the free features of FastAPI and Hugging Face, a limit
+              applies to the number of documents you can upload at one time (5 documents max every 30 minutes, and 1 document at a time).
+              Documents ~5-10KB in size work best. Currently, the scoring model only accepts .docx and .txt files.
             </p>
             <input
               type="file"
