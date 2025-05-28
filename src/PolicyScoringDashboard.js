@@ -123,9 +123,13 @@ export default function PolicyScoringDashboard() {
           <CardContent className="p-6">
             <h1 className="text-2xl font-bold text-emerald-900 mb-2">Upload Policy Documents</h1>
             <p className="text-sm text-emerald-800 mb-4">
-              This tool uses free and open-source AI models to score uploaded policy documents based on evidence-based policy dimensions.
-              To maintain performance and fairness, a limit applies to the number of documents you can upload at one time. 
-              <strong> Note:</strong> The current app only renders a mock-up of the front-end and not the back-end to the actual scoring model. This is coming soon - stay tuned!
+              This tool uses free and open-source AI models to score uploaded policy documents based on five evidence-based policy dimensions.
+              The output shows the scores ranging from 0-3 and a radar chart showing the scores across the dimension. You can export a .csv file
+              of your results. 
+            </p>
+            <p className="text-sm text-emerald-800 mb-4">
+              To maintain performance and fairness using the free features of FastAPI and Hugging Face, a limit applies to the number of documents 
+              you can upload at one time (5 documents max every 30 minutes, and 1 document at a time). Currently, the scoring model accepts .docx and .txt files.
             </p>
             <input
               type="file"
