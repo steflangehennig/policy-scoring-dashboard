@@ -43,32 +43,54 @@ export default function PolicyScoringDashboard() {
     setError(null);
   };
 
+  
   const handleSubmit = async () => {
     if (!selectedFiles.length) return;
     setLoading(true);
     setError(null);
 
-    try {
-      const scored = selectedFiles.map((file, i) => ({
-        fileName: file.name,
-        scores: {
-          Clarity: (i % 5) + 1,
-          Rationale: ((i + 1) % 5) + 1,
-          Evidence: ((i + 2) % 5) + 1,
-          Alternatives: ((i + 3) % 5) + 1,
-          Implementation: ((i + 4) % 5) + 1,
-        },
-      }));
-      setTimeout(() => {
-        setResults(scored);
-        setSelectedRadar(scored[0]);
-        setLoading(false);
-      }, 1000);
-    } catch (err) {
-      setLoading(false);
-      setError("An error occurred while scoring the documents. Please try again.");
+    const scored = [];
+
+    for (const file of selectedFiles) {
+      const formData = new FormData();
+      formData.append("file", file);
+
+      try {
+        const response = await fetch("https://steflangehennig-policy-scoring-api.hf.space/score", {
+          method: "POST",
+          body: formData,
+        });
+
+        if (!response.ok) {
+          throw new Error("Failed to score document");
+        }
+
+        const data = await response.json();
+        const rawScores = data.scores;
+
+        const scores = {
+          EmpiricalResearch: rawScores["Use of Empirical Research"].score,
+          FormalEvidenceGathering: rawScores["Formal Evidence-Gathering Process"].score,
+          TransparencyAccessibility: rawScores["Transparency and Accessibility"].score,
+          ExpertStakeholderInput: rawScores["Expert and Stakeholder Input"].score,
+          EvaluationIteration: rawScores["Evaluation and Iteration"].score,
+        };
+
+        scored.push({
+          fileName: file.name,
+          scores,
+        });
+      } catch (err) {
+        console.error("Scoring error:", err);
+        setError(`Failed to score document: ${file.name}`);
+      }
     }
+
+    setResults(scored);
+    setSelectedRadar(scored[0] || null);
+    setLoading(false);
   };
+
 
   const handleExportCSV = () => {
     const header = ["File", "Clarity", "Rationale", "Evidence", "Alternatives", "Implementation"];
@@ -172,7 +194,7 @@ export default function PolicyScoringDashboard() {
                       <RadarChart cx="50%" cy="50%" outerRadius="70%" data={chartData}>
                         <PolarGrid />
                         <PolarAngleAxis dataKey="dimension" />
-                        <PolarRadiusAxis domain={[0, 5]} tickCount={6} />
+                        <PolarRadiusAxis domain={[0, 3]} tickCount={6} />
                         <Radar name="Score" dataKey="score" stroke="#047857" fill="#047857" fillOpacity={0.6} />
                       </RadarChart>
                     </ResponsiveContainer>
