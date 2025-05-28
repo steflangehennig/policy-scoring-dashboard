@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/policy-scoring-dashboard/static/css/main.7bbe963c.css",
-    "main.js": "/policy-scoring-dashboard/static/js/main.6f544645.js",
+    "main.js": "/policy-scoring-dashboard/static/js/main.cb766ac7.js",
     "index.html": "/policy-scoring-dashboard/index.html",
     "main.7bbe963c.css.map": "/policy-scoring-dashboard/static/css/main.7bbe963c.css.map",
-    "main.6f544645.js.map": "/policy-scoring-dashboard/static/js/main.6f544645.js.map"
+    "main.cb766ac7.js.map": "/policy-scoring-dashboard/static/js/main.cb766ac7.js.map"
   },
   "entrypoints": [
     "static/css/main.7bbe963c.css",
-    "static/js/main.6f544645.js"
+    "static/js/main.cb766ac7.js"
   ]
 }
