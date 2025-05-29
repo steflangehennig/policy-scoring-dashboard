@@ -24,7 +24,7 @@ yarn-error.log*
 
 .vscode/
 *.pkl
-data/
-model/
-old/
-nltk_data/
+/data/
+/model/
+/old/
+/nltk_data/
