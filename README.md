@@ -44,7 +44,7 @@ Each dimension includes:
 
 ## To Reproduce
 
-See the full guide [`policy_scoring_guide.md`](./app-guide.md) for complete setup instructions including environment, API setup, Docker build, and integration.
+See the full guide [`app-guide.md`](./app-guide.md) for complete setup instructions including environment, API setup, Docker build, and integration.
 
 ## License
 
