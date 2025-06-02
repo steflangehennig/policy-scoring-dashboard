@@ -13,12 +13,12 @@ import spacy
 import pdfplumber
 import docx
 
-# Load spaCy model
+# load spaCy model
 nlp = spacy.load("en_core_web_sm")
 
 app = FastAPI()
 
-# Allow all origins for dev
+# all origins for dev
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
@@ -27,16 +27,16 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# Hugging Face Inference API setup
+# connect to hugging face inference api
 model_id = "mistralai/Mistral-7B-Instruct-v0.3"
 HF_API_URL = f"https://api-inference.huggingface.co/models/{model_id}"
 hf_token = os.getenv("HF_TOKEN")
 headers = {"Authorization": f"Bearer {hf_token}"}
 print("✅ HF_TOKEN Present:", hf_token is not None)
 
-# Rate limiting
-RATE_LIMIT = 5  # max requests
-TIME_WINDOW = 30 * 60  # 30 minutes
+# limit max requests (5) everything 30min
+RATE_LIMIT = 5 
+TIME_WINDOW = 30 * 60  
 ip_log: Dict[str, list] = {}
 
 @app.middleware("http")
@@ -144,7 +144,7 @@ async def score_document(file: UploadFile = File(...)):
 
         full_text = extract_text(tmp_path, tmp_path)
 
-        # Use spaCy to split into sentences and truncate
+        # use spaCy to split into sentences/truncate
         doc = nlp(full_text)
         truncated_text = " ".join([sent.text for sent in doc.sents][:30])
 
